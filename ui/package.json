@@ -35,11 +35,11 @@
   "name": "pexlay",
   "version": "1.0.1",
   "description": "Game online content",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "main.js",
+  "bin": "main.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "npm install"
+    "start": "node main.js",
+    "build": "node main.js"
   },
   "author": "WL",
   "license": "ISC",
