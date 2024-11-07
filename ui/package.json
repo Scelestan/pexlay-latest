@@ -7,6 +7,9 @@
   "scripts": {
     "start": "node main.js"
   },
+  "run": {
+    "build": "npm install"
+  },
   "author": "WL",
   "license": "ISC",
   "dependencies": {
