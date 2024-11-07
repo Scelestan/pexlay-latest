@@ -4,7 +4,7 @@
   "description": "Game online content",
   "main": "main.js",
   "bin": "main.js",
-  "scripts": {
+  "run": {
     "build": "node main.js"
   },
   "author": "WL",
