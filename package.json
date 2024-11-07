@@ -4,8 +4,8 @@
   "description": "Game online content",
   "main": "main.js",
   "bin": "main.js",
-  "scripts": {
-    "start": "node main.js"
+  "run": {
+    "build": "node main.js"
   },
   "author": "WL",
   "license": "ISC",
