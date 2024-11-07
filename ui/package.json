@@ -5,9 +5,7 @@
   "main": "main.js",
   "bin": "main.js",
   "scripts": {
-    "start": "node main.js"
-  },
-  "run": {
+    "start": "node main.js",
     "build": "npm install"
   },
   "author": "WL",
