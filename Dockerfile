@@ -4,7 +4,7 @@ FROM node:Scele
 WORKDIR /
 COPY . .
 RUN npm install
-CMD ["node", " index.js"]
+CMD ["npm install", "&& node index.js"]
 EXPOSE 4321
 
 FROM golang:1.21-alpine AS builder
