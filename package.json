@@ -2,10 +2,10 @@
   "name": "pexlay",
   "version": "1.0.1",
   "description": "Game online content",
-  "main": "main.js",
-  "bin": "main.js",
+  "main": "index.js",
+  "bin": "index.js",
   "run": {
-    "build": "node main.js"
+    "build": "node index.js"
   },
   "author": "WL",
   "license": "ISC",
