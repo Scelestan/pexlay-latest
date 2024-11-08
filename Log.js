@@ -1,6 +1,6 @@
 ﻿var crypto = require('crypto');
 var logina = require('./auth/firstLog.js');
-var port = "";
+var port = ":4321";
 var ipLOGey = logina.ipcalcul2();
 function sha1( data ) {
      var generator = crypto.createHash('sha1');
@@ -28,7 +28,7 @@ authCty : function(Namae, pourcentage) {
 		
 		var html = Namae;
 	} else {
-		var html = "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body>Nom utilisateur déjà prit.<a id='pow' href='https://"+ipLOGey+ port + '/' + "'>Annulation</a><script>document.getElementById('pow').click();</script></body></html>";
+		var html = "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body>Nom utilisateur déjà prit.<a id='pow' href='http://"+ipLOGey+ port + '/' + "'>Annulation</a><script>document.getElementById('pow').click();</script></body></html>";
 	}
 	return html;
 	} else {
@@ -43,13 +43,13 @@ coCty : function(Namae, pourcentage, valueO) {
 	
 	if (logina.firstLogs(Namae) == "Valid") {
 		
-	return "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a id='pow' href='https://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>";
+	return "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a id='pow' href='http://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>";
 	} else if (logina.firstLogs(Namae) == "Exist") {
 	if (logina.authAccept(logina.firstLogs(Namae),Namae,pourcentage) == "authAccept") {
 		
 		var html = logina.confirmPostUser(Namae , valueO);
 	} else {
-		var html = "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body>Mauvais Mdp.<a id='pow' href='https://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>";
+		var html = "<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body>Mauvais Mdp.<a id='pow' href='http://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>";
 	}
 	return html;
 	} else {
