@@ -62,7 +62,7 @@ socket.on('connection', function(ws, wss) {
   var domain = wss.headers.origin;
   console.log(domain);
   
-  if (domain == "http://localhost:4321") {
+
 
 
 ws.on('close', function(client) {
@@ -85,11 +85,7 @@ String(fL.slUse("/singlePage/"+tut.split("/")[1]+".js")).replace('<', '-_').repl
 	}
 });
 
-  } else {
-	  
-	  ws.close();
-	  
-  }
+
 
   });
   
