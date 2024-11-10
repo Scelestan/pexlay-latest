@@ -12,8 +12,8 @@ process.on('uncaughtException', function (err) {
 });
 Routerers.addStaff();
 //Routerers.LoadLog_(":4321", "", "done", true, 1);
-Routerers.LoadLog_(":4321", "connexion", "staff", false, 0);
-apps.use(Routerers.SlaSh_(":4321", "", "connexion", "/staff"));
+Routerers.LoadLog_("", "connexion", "staff", false, 0);
+apps.use(Routerers.SlaSh_("", "", "connexion", "/staff"));
 
 Routerers.createGET_("/", "/Authenticator/auth/singlePage/userPage.html");
 Routerers.createGET_("/logo", "/logo.png");

@@ -39,7 +39,7 @@ res.sendFile(__dirname + first, function() {
 addStaff : function () {
 Routerer.post('/add', function (req, res, next) {
 console.log(req.files);
-  if (req.get("referrer") == ("http://"+ipLOGey + ":4321/staff")) {
+  if (req.get("referrer") == ("https://"+ipLOGey + ":4321/staff")) {
 	  WriteRes();
   } else {
 	  res.write(new Buffer.from('<!DOCTYPE html>' +
@@ -51,7 +51,7 @@ console.log(req.files);
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://localhost:4321/"+ 
+"https://localhost:4321/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="OK"/>'+
 '</form>' +
@@ -138,7 +138,7 @@ charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();`
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://localhost:4321/"+ 
+"https://localhost:4321/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="OK"/>'+
 '</form>' +
@@ -157,7 +157,7 @@ res.end();
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://localhost:4321/"+ 
+"https://localhost:4321/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="Ce nom de projet existe déjà."/>'+
 '</form>' +
@@ -175,7 +175,7 @@ res.end();
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://localhost:4321/"+ 
+"https://localhost:4321/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="Vous devez selectionner un fichier."/>'+
 '</form>' +
@@ -195,7 +195,7 @@ SlaSh_ : function(port, inscription, connexion, Accueil) {
 
 Routerer.get(Accueil, function (req, res, next) {
 res.set({ 'content-type': 'text/html; charset=utf-8' });
-res.write(fL.PageLogin().replace("LINKinscription", "http://"+ipLOGey + port + "/" + inscription).replace("LINKconnexion", "http://"+ipLOGey + port + "/" + connexion));
+res.write(fL.PageLogin().replace("LINKinscription", "https://"+ipLOGey + port + "/" + inscription).replace("LINKconnexion", "https://"+ipLOGey + port + "/" + connexion));
 res.end();
 });
 return Routerer;
@@ -214,13 +214,13 @@ console.log("authentificator creation done");
 
 Routerer.get('/' + inscription, function (req, res) {
 res.set({ 'content-type': 'text/javascript; charset=utf-8' });
-res.write(fL.PageInscription().replace("LINKinscription", 'http://'+ipLOGey + port + '/' + Accueil));
+res.write(fL.PageInscription().replace("LINKinscription", 'https://'+ipLOGey + port + '/' + Accueil));
 res.end();
 
-}).post('/' + Accueil, function (req, res, next) { if (req.get("referrer") == ("http://"+ipLOGey+ port + "/" + Accueil)) {
+}).post('/' + Accueil, function (req, res, next) { if (req.get("referrer") == ("https://"+ipLOGey+ port + "/" + Accueil)) {
 	next();
 	} else {
-res.write("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a id='pow' href='http://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>");
+res.write("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a id='pow' href='https://"+ipLOGey+ port + '/' + "'>Annulation de la connexion</a><script>document.getElementById('pow').click();</script></body></html>");
 	res.end();
 	} }, function (req, res, next) {
 
@@ -280,7 +280,7 @@ res.end();
 	
 	
 
-res.write("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a href='http://"+ipLOGey+ port + "/'>OK</a><a id='pow' href='http://"+ipLOGey+ port + '/' + "'>OK</a><script>document.getElementById('pow').click();</script></body></html>");
+res.write("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'></head><body><a href='https://"+ipLOGey+ port + "/'>OK</a><a id='pow' href='https://"+ipLOGey+ port + '/' + "'>OK</a><script>document.getElementById('pow').click();</script></body></html>");
 res.end();
 
 
