@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:23-slim
 
 WORKDIR /
 
@@ -8,8 +8,8 @@ RUN npm install
 
 COPY --chown=node:node . .
 
-EXPOSE 80
+EXPOSE 3000
 
-ENV HOST=0.0.0.0 PORT=4321
+ENV HOST=127.0.0.1 PORT=4321
 
 CMD ["node", "index.js"]
