@@ -15,7 +15,7 @@ Routerers.addStaff();
 Routerers.LoadLog_(":4321", "connexion", "staff", false, 0);
 apps.use(Routerers.SlaSh_(":4321", "", "connexion", "/staff"));
 
-Routerers.createGET_("/", "/auth/singlePage/userPage.html");
+Routerers.createGET_("/", "/Authenticator/auth/singlePage/userPage.html");
 Routerers.createGET_("/logo", "/logo.png");
 Routerers.createGET_("/favicon.ico", "/favicon.ico");
 apps.use(Routerers.useRoute());
