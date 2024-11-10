@@ -218,7 +218,7 @@ var ceci = '<!DOCTYPE html>' +
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://"+ipLOGey+":4321/"+ 
+"https://"+ipLOGey+":4321/"+ 
 '" method="get">' +
 '<input type="submit" value="return"/>'+
 '</form>' +
@@ -356,7 +356,7 @@ var html = '<!DOCTYPE html>' +
 "</head>" +
 "<body>" +
 '<form action="' +
-"http://"+ipLOGey+":4321/"+ 
+"https://"+ipLOGey+":4321/"+ 
 '" method="get">' +
 '<input type="submit" value="BAD"/>'+
 '</form>' +

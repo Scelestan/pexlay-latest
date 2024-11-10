@@ -1,6 +1,6 @@
 ﻿var crypto = require('crypto');
 var logina = require('./auth/firstLog.js');
-var port = ":4321";
+var port = "";
 var ipLOGey = logina.ipcalcul2();
 function sha1( data ) {
      var generator = crypto.createHash('sha1');

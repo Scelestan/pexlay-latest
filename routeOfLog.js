@@ -39,7 +39,7 @@ res.sendFile(__dirname + first, function() {
 addStaff : function () {
 Routerer.post('/add', function (req, res, next) {
 console.log(req.files);
-  if (req.get("referrer") == ("https://"+ipLOGey + ":4321/staff")) {
+  if (req.get("referrer") == ("https://"+ipLOGey + "/staff")) {
 	  WriteRes();
   } else {
 	  res.write(new Buffer.from('<!DOCTYPE html>' +
@@ -51,7 +51,7 @@ console.log(req.files);
 "</head>" +
 "<body>" +
 '<form action="' +
-"https://localhost:4321/"+ 
+"https://gardian-of-shylz-505011598866.us-central1.run.app/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="OK"/>'+
 '</form>' +
@@ -138,7 +138,7 @@ charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();`
 "</head>" +
 "<body>" +
 '<form action="' +
-"https://localhost:4321/"+ 
+"https://gardian-of-shylz-505011598866.us-central1.run.app/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="OK"/>'+
 '</form>' +
@@ -157,7 +157,7 @@ res.end();
 "</head>" +
 "<body>" +
 '<form action="' +
-"https://localhost:4321/"+ 
+"https://gardian-of-shylz-505011598866.us-central1.run.app/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="Ce nom de projet existe déjà."/>'+
 '</form>' +
@@ -175,7 +175,7 @@ res.end();
 "</head>" +
 "<body>" +
 '<form action="' +
-"https://localhost:4321/"+ 
+"https://gardian-of-shylz-505011598866.us-central1.run.app/"+ 
 '" method="get">' +
 '<input type="submit" id="val" value="Vous devez selectionner un fichier."/>'+
 '</form>' +
