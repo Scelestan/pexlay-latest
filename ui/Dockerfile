@@ -1,6 +1,6 @@
 FROM node:23-slim
 
-WORKDIR /
+WORKDIR /app
 
 COPY package*.json ./
 
