@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre l’ombre de près#Mystère en mouvement*Observer de loin pour plus de sécurité#Observation prudente";var texting = `
+function C() { var choice = "Suivre l’ombre de près#Mystère en mouvement*Observer de loin pour plus de sEcuritE#Observation prudente";var texting = `
 <br/>
 **Ombres suspectes**
 <br/>
 <br/>
-Une ombre passe furtivement au coin du couloir. Xalendan décide de la suivre, son cœur battant d’excitation et de crainte. Il reste à une distance prudente, espérant découvrir qui ou ce qui se déplace dans le château à une heure si tardive.
+Une ombre passe furtivement au coin du couloir. Xalendan dEcide de la suivre, son cœur battant d’excitation et de crainte. Il reste à une distance prudente, espErant dEcouvrir qui ou ce qui se dEplace dans le château à une heure si tardive.
 <br/>
 <br/>
 

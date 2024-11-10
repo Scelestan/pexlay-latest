@@ -3,7 +3,7 @@ function C() { var choice = "Se positionner en miroir de Jasson pour couvrir tou
 **Alliance silencieuse**
 <br/>
 <br/>
-Selestan et Jasson se déplacent en silence, leurs gestes coordonnés comme un ballet tacite. Chaque mouvement est calculé, chaque pas mesuré, leur connexion permettant de couvrir leurs arrières sans échanger un mot. Selestan ressent la présence rassurante de Jasson, comme un soutien constant face à l’inconnu.
+Selestan et Jasson se dEplacent en silence, leurs gestes coordonnEs comme un ballet tacite. Chaque mouvement est calculE, chaque pas mesurE, leur connexion permettant de couvrir leurs arrières sans Echanger un mot. Selestan ressent la prEsence rassurante de Jasson, comme un soutien constant face à l’inconnu.
 <br/>
 <br/>
 

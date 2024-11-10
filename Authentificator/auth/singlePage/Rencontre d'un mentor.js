@@ -1,9 +1,9 @@
-function C() { var choice = "Poser des questions sur la technique#Leçons secrètes*quedal#Demander une formation officielle#Épreuve de maîtrise";var texting = `
+function C() { var choice = "Poser des questions sur la technique#Leçons secrètes*quedal#Demander une formation officielle#Epreuve de maîtrise";var texting = `
 <br/>
 **Rencontre d'un mentor**
 <br/>
 <br/>
-Impressionné par l'effort de Xalendan, le maître d'armes accepte de répondre à quelques-unes de ses questions. Il parle de techniques oubliées et de magies anciennes qui, bien maîtrisées, pourraient changer le destin des chevaliers du Sphinx...
+ImpressionnE par l'effort de Xalendan, le maître d'armes accepte de rEpondre à quelques-unes de ses questions. Il parle de techniques oubliEes et de magies anciennes qui, bien maîtrisEes, pourraient changer le destin des chevaliers du Sphinx...
 <br/>
 <br/>
 

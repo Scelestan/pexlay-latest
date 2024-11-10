@@ -1,9 +1,9 @@
-function C() { var choice = "Tester un sortilège ancien#Force cachée de l'Ordre*Retourner prudemment#Renoncer à cette voie par prudence#Connaissance interdite";var texting = `
+function C() { var choice = "Tester un sortilège ancien#Force cachEe de l'Ordre*Retourner prudemment#Renoncer à cette voie par prudence#Connaissance interdite";var texting = `
 <br/>
 **Savoir ancestral**
 <br/>
 <br/>
-En mettant en pratique l’un des sortilèges anciens, Xalendan ressent une énergie puissante couler en lui. La magie semble provenir des entrailles mêmes de la terre, une force qui résonne avec les souvenirs et les secrets enfouis de l’ordre.
+En mettant en pratique l’un des sortilèges anciens, Xalendan ressent une Energie puissante couler en lui. La magie semble provenir des entrailles mêmes de la terre, une force qui rEsonne avec les souvenirs et les secrets enfouis de l’ordre.
 <br/>
 <br/>
 

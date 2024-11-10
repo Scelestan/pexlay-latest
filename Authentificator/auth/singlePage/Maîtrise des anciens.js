@@ -1,9 +1,9 @@
-function C() { var choice = "Se tester dans un duel avec le mentor#Le prix de la puissance*Préparer un rituel#Rester prudent et s'entraîner seul#Force cachée de l'Ordre";var texting = `
+function C() { var choice = "Se tester dans un duel avec le mentor#Le prix de la puissance*PrEparer un rituel#Rester prudent et s'entraîner seul#Force cachEe de l'Ordre";var texting = `
 <br/>
 **Maîtrise des anciens**
 <br/>
 <br/>
-Xalendan défie son mentor dans un duel amical. Cette épreuve est autant un défi physique que mental. Utiliser ces magies anciennes l'oblige à se confronter à ses propres limites et aux conséquences que pourraient avoir ces pouvoirs.
+Xalendan dEfie son mentor dans un duel amical. Cette Epreuve est autant un dEfi physique que mental. Utiliser ces magies anciennes l'oblige à se confronter à ses propres limites et aux consEquences que pourraient avoir ces pouvoirs.
 <br/>
 <br/>
 

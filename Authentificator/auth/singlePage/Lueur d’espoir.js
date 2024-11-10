@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre cette lueur comme une direction nouvelle#Chemin lumineux*Partager cette vision avec un allié#Espoir partagé";var texting = `
+function C() { var choice = "Suivre cette lueur comme une direction nouvelle#Chemin lumineux*Partager cette vision avec un alliE#Espoir partagE";var texting = `
 <br/>
 **Lueur d’espoir**
 <br/>
 <br/>
-Selestan ressent un léger optimisme, une lueur dans son esprit qui brille malgré la noirceur environnante. Il décide de suivre cette inspiration, espérant qu’elle le guidera vers un avenir plus serein. Parfois, une petite flamme d’espoir suffit pour éclairer le chemin entier.
+Selestan ressent un lEger optimisme, une lueur dans son esprit qui brille malgrE la noirceur environnante. Il dEcide de suivre cette inspiration, espErant qu’elle le guidera vers un avenir plus serein. Parfois, une petite flamme d’espoir suffit pour Eclairer le chemin entier.
 <br/>
 <br/>
 

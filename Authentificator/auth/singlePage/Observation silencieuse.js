@@ -1,9 +1,9 @@
-function C() { var choice = "Essayer de comprendre la situation sans intervenir#Analyse discrète*Finalement décider de s’éloigner pour respecter son intimité#Discrétion respectueuse";var texting = `
+function C() { var choice = "Essayer de comprendre la situation sans intervenir#Analyse discrète*Finalement dEcider de s’Eloigner pour respecter son intimitE#Feuille";var texting = `
 <br/>
 **Observation silencieuse**
 <br/>
 <br/>
-Selestan choisit de ne pas intervenir directement et se contente d'observer Lynaée à distance, essayant de déceler la source de sa tristesse. Peut-être est-ce une souffrance ancienne qui refait surface, ou un événement récent qui a troublé son cœur. Dans son silence, il respecte la liberté de Lynaée, prêt à être là pour elle si elle en ressent le besoin.
+Selestan choisit de ne pas intervenir directement et se contente d'observer LynaEe à distance, essayant de dEceler la source de sa tristesse. Peut-être est-ce une souffrance ancienne qui refait surface, ou un EvEnement rEcent qui a troublE son cœur. Dans son silence, il respecte la libertE de LynaEe, prêt à être là pour elle si elle en ressent le besoin.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Analyser la réaction de l’artefact pour découvrir son usage#Signification oubliée*Utiliser la magie pour déchiffrer l’énergie de l’artefact#Décodage mystique";var texting = `
+function C() { var choice = "Analyser la rEaction de l’artefact pour dEcouvrir son usage#Signification oubliEe*Utiliser la magie pour dEchiffrer l’Energie de l’artefact#DEcodage mystique";var texting = `
 <br/>
 **Manifestation magique**
 <br/>
 <br/>
-L’artefact brille de plus en plus intensément. Xalendan et Chloé se concentrent pour essayer de comprendre ce que cet objet veut leur transmettre. La puissance qui émane de l’artefact est comme une mémoire ancienne, un écho des chevaliers du passé.
+L’artefact brille de plus en plus intensEment. Xalendan et ChloE se concentrent pour essayer de comprendre ce que cet objet veut leur transmettre. La puissance qui Emane de l’artefact est comme une mEmoire ancienne, un Echo des chevaliers du passE.
 <br/>
 <br/>
 

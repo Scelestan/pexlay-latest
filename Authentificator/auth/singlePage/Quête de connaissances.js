@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer d’autres sections de la bibliothèque interdite#Savoir caché*Chercher des parchemins anciens dans le laboratoire de magie#Inscriptions anciennes";var texting = `
+function C() { var choice = "Explorer d’autres sections de la bibliothèque interdite#Savoir cachE*Chercher des parchemins anciens dans le laboratoire de magie#Inscriptions anciennes";var texting = `
 <br/>
 **Quête de connaissances**
 <br/>
 <br/>
-Leurs recherches les mènent dans des sections inexplorées de la bibliothèque interdite. Xalendan et Chloé y découvrent des écrits anciens et des parchemins cachés depuis des siècles, chacun recelant des secrets précieux pour leur compréhension du monde magique.
+Leurs recherches les mènent dans des sections inexplorEes de la bibliothèque interdite. Xalendan et ChloE y dEcouvrent des Ecrits anciens et des parchemins cachEs depuis des siècles, chacun recelant des secrets prEcieux pour leur comprEhension du monde magique.
 <br/>
 <br/>
 

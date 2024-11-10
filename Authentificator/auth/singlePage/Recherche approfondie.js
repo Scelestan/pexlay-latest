@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer une nouvelle section des archives du château#Archives interdites*Consulter un sage pour valider leurs interprétations#Avis du sage*Discussion entre amis#Discussion entre amis";var texting = `
+function C() { var choice = "Explorer une nouvelle section des archives du château#Archives interdites*Consulter un sage pour valider leurs interprEtations#Avis du sage*Discussion entre amis#Discussion entre amis";var texting = `
 <br/>
 **Recherche approfondie**
 <br/>
 <br/>
-Selestan et Lynaée décident d'approfondir leurs recherches dans les textes anciens, espérant trouver plus de détails pour confirmer leurs théories. Cette quête les amène à découvrir des informations jusque-là inconnues sur l’origine des symboles et leur lien avec la magie de l'ordre.
+Selestan et LynaEe dEcident d'approfondir leurs recherches dans les textes anciens, espErant trouver plus de dEtails pour confirmer leurs thEories. Cette quête les amène à dEcouvrir des informations jusque-là inconnues sur l’origine des symboles et leur lien avec la magie de l'ordre.
 <br/>
 <br/>
 

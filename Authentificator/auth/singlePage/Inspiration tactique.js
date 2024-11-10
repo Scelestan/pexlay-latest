@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser un objet de l’environnement pour progresser#Astuce improvisée*Observer les mouvements naturels pour une solution#Stratégie d’adaptation";var texting = `
+function C() { var choice = "Utiliser un objet de l’environnement pour progresser#Astuce improvisEe*Observer les mouvements naturels pour une solution#StratEgie d’adaptation";var texting = `
 <br/>
 **Inspiration tactique**
 <br/>
 <br/>
-En analysant son environnement, Selestan trouve une idée inattendue : il pourrait utiliser un élément du paysage pour contourner son obstacle. Cette pensée lui apporte une nouvelle énergie, car elle lui rappelle l’importance de l’adaptabilité et de la créativité dans les moments de défi.
+En analysant son environnement, Selestan trouve une idEe inattendue : il pourrait utiliser un ElEment du paysage pour contourner son obstacle. Cette pensEe lui apporte une nouvelle Energie, car elle lui rappelle l’importance de l’adaptabilitE et de la crEativitE dans les moments de dEfi.
 <br/>
 <br/>
 

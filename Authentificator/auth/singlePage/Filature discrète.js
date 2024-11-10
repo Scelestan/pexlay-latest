@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer à suivre jusqu'à un endroit isolé#Coin stratégique*Renoncer à la filature pour éviter de se faire remarquer#Évasion stratégique";var texting = `
+function C() { var choice = "Continuer à suivre jusqu'à un endroit isolE#Coin stratEgique*Renoncer à la filature pour Eviter de se faire remarquer#Evasion stratEgique";var texting = `
 <br/>
 **Filature discrète**
 <br/>
 <br/>
-Xalendan continue de suivre la silhouette, restant dissimulé dans l'ombre. Il espère trouver un endroit isolé pour confronter cette mystérieuse personne ou créature sans attirer l’attention d’autres résidents du château.
+Xalendan continue de suivre la silhouette, restant dissimulE dans l'ombre. Il espère trouver un endroit isolE pour confronter cette mystErieuse personne ou crEature sans attirer l’attention d’autres rEsidents du château.
 <br/>
 <br/>
 

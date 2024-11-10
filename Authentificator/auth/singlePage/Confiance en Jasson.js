@@ -1,9 +1,9 @@
-function C() { var choice = "Laisser Jasson s’approcher et rester en soutien à distance#Soutien prudent*Préparer une éventuelle diversion si nécessaire#Plan de secours";var texting = `
+function C() { var choice = "Laisser Jasson s’approcher et rester en soutien à distance#Soutien prudent*PrEparer une Eventuelle diversion si nEcessaire#Plan de secours";var texting = `
 <br/>
 **Confiance en Jasson**
 <br/>
 <br/>
-Selestan décide de laisser Jasson s'approcher le premier, prêt à intervenir en cas de danger. Il sait que Jasson est astucieux et capable de repérer des signes que lui-même pourrait ignorer. En retrait, Selestan observe et se prépare à toute éventualité, prêt à agir si la situation dégénère.
+Selestan dEcide de laisser Jasson s'approcher le premier, prêt à intervenir en cas de danger. Il sait que Jasson est astucieux et capable de repErer des signes que lui-même pourrait ignorer. En retrait, Selestan observe et se prEpare à toute EventualitE, prêt à agir si la situation dEgEnère.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Confier ses découvertes à ses amis#Confiance partagée*Garder les secrets pour soi#Garder ses secrets pour soi#L'éveil de la destinée";var texting = `
+function C() { var choice = "Confier ses dEcouvertes à ses amis#Confiance partagEe*Garder les secrets pour soi#Garder ses secrets pour soi#L'Eveil de la destinEe";var texting = `
 <br/>
 **Retour au château**
 <br/>
 <br/>
-De retour au château, Xalendan hésite. Devrait-il partager ces révélations avec ses compagnons, au risque de bouleverser leur compréhension de l’ordre, ou garder le secret pour lui, pour protéger ces savoirs ancestraux ?
+De retour au château, Xalendan hEsite. Devrait-il partager ces rEvElations avec ses compagnons, au risque de bouleverser leur comprEhension de l’ordre, ou garder le secret pour lui, pour protEger ces savoirs ancestraux ?
 <br/>
 <br/>
 

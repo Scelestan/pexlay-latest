@@ -1,9 +1,9 @@
-function C() { var choice = "Noter les informations pour une future exploration#Journal des secrets*Continuer à lire pour en apprendre plus#En quête de vérité";var texting = `
+function C() { var choice = "Noter les informations pour une future exploration#Journal des secrets*Continuer à lire pour en apprendre plus#En quête de vEritE";var texting = `
 <br/>
 **Racines de l'ordre**
 <br/>
 <br/>
-Les écrits sur les fondateurs éveillent des questions en Xalendan. Qui étaient réellement ces premiers chevaliers ? Il décide de noter chaque détail pour les étudier plus tard, ou même pour en discuter avec ses alliés.
+Les Ecrits sur les fondateurs Eveillent des questions en Xalendan. Qui Etaient rEellement ces premiers chevaliers ? Il dEcide de noter chaque dEtail pour les Etudier plus tard, ou même pour en discuter avec ses alliEs.
 <br/>
 <br/>
 

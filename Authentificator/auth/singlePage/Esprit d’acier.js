@@ -3,7 +3,7 @@ function C() { var choice = "Utiliser cette force pour traverser les flammes#Pas
 **Esprit d’acier**
 <br/>
 <br/>
-Fort de sa résilience, Selestan franchit un passage au milieu des flammes. Chaque pas semble plus léger, comme si la force de son esprit apaisait l’intensité du feu. Il sait qu’il s’approche d’une vérité fondamentale.
+Fort de sa rEsilience, Selestan franchit un passage au milieu des flammes. Chaque pas semble plus lEger, comme si la force de son esprit apaisait l’intensitE du feu. Il sait qu’il s’approche d’une vEritE fondamentale.
 <br/>
 <br/>
 

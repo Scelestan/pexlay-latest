@@ -1,9 +1,9 @@
-function C() { var choice = "Plonger dans un sommeil réparateur#Repos profond*Se détendre et laisser son esprit vagabonder#Rêverie";var texting = `
+function C() { var choice = "Plonger dans un sommeil rEparateur#Repos profond*Se dEtendre et laisser son esprit vagabonder#Rêverie";var texting = `
 <br/>
 **Sommeil apaisant**
 <br/>
 <br/>
-Selestan s'abandonne au sommeil, laissant ses pensées se calmer. Dans cet état de repos, son esprit trouve un espace de paix où il peut guérir et se préparer pour les défis à venir. Ce sommeil est un répit bien mérité, une parenthèse de sérénité dans une existence souvent mouvementée.
+Selestan s'abandonne au sommeil, laissant ses pensEes se calmer. Dans cet Etat de repos, son esprit trouve un espace de paix où il peut guErir et se prEparer pour les dEfis à venir. Ce sommeil est un rEpit bien mEritE, une parenthèse de sErEnitE dans une existence souvent mouvementEe.
 <br/>
 <br/>
 

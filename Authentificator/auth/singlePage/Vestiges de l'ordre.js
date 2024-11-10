@@ -1,9 +1,9 @@
-function C() { var choice = "Enquêter dans le temple#Révélations interdites*quedal#Rester en dehors du temple par prudence#Réalité dissimulée";var texting = `
+function C() { var choice = "Enquêter dans le temple#REvElations interdites*quedal#Rester en dehors du temple par prudence#REalitE dissimulEe";var texting = `
 <br/>
 **Vestiges de l'ordre**
 <br/>
 <br/>
-Xalendan pénètre dans le temple, ses pas résonnant sur le sol de pierre froide. Les murs sont ornés de symboles inconnus et des fragments de textes anciens y sont gravés. Il se sent soudain submergé par une étrange sensation de déjà-vu…
+Xalendan pEnètre dans le temple, ses pas rEsonnant sur le sol de pierre froide. Les murs sont ornEs de symboles inconnus et des fragments de textes anciens y sont gravEs. Il se sent soudain submergE par une Etrange sensation de dEjà-vu…
 <br/>
 <br/>
 

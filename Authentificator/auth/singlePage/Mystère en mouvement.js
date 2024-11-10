@@ -1,9 +1,9 @@
-function C() { var choice = "Accélérer pour rattraper l'ombre#Enquête risquée*Continuer à suivre sans se faire remarquer#Filature discrète";var texting = `
+function C() { var choice = "AccElErer pour rattraper l'ombre#Enquête risquEe*Continuer à suivre sans se faire remarquer#Filature discrète";var texting = `
 <br/>
 **Mystère en mouvement**
 <br/>
 <br/>
-L’ombre s’éloigne rapidement. Xalendan se décide à presser le pas pour rattraper cette silhouette insaisissable. Les couloirs deviennent plus sombres, et chaque bruit pourrait trahir sa présence. Il doit rester vigilant pour éviter d’être repéré.
+L’ombre s’Eloigne rapidement. Xalendan se dEcide à presser le pas pour rattraper cette silhouette insaisissable. Les couloirs deviennent plus sombres, et chaque bruit pourrait trahir sa prEsence. Il doit rester vigilant pour Eviter d’être repErE.
 <br/>
 <br/>
 

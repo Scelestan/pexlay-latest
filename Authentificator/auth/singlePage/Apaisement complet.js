@@ -1,9 +1,9 @@
-function C() { var choice = "Se détendre pleinement dans ce moment de tranquillité#Repos total*Laisser son esprit vagabonder dans des souvenirs joyeux#Doux rêves";var texting = `
+function C() { var choice = "Se dEtendre pleinement dans ce moment de tranquillitE#Repos total*Laisser son esprit vagabonder dans des souvenirs joyeux#Doux rêves";var texting = `
 <br/>
 **Apaisement complet**
 <br/>
 <br/>
-Selestan s'abandonne entièrement à un sentiment d’apaisement. En fermant les yeux, il se laisse guider vers des souvenirs heureux, des instants de bonheur pur qui effacent momentanément toutes ses préoccupations. Ce repos est comme un rêve éveillé, un cadeau précieux pour son âme.
+Selestan s'abandonne entièrement à un sentiment d’apaisement. En fermant les yeux, il se laisse guider vers des souvenirs heureux, des instants de bonheur pur qui effacent momentanEment toutes ses prEoccupations. Ce repos est comme un rêve EveillE, un cadeau prEcieux pour son âme.
 <br/>
 <br/>
 

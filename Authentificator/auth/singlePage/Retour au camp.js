@@ -1,9 +1,9 @@
-function C() { var choice = "Partager ses découvertes avec ses compagnons#Discussion entre amis*Garder ses découvertes secrètes pour l'instant#Silence et réflexion";var texting = `
+function C() { var choice = "Partager ses dEcouvertes avec ses compagnons#Discussion entre amis*Garder ses dEcouvertes secrètes pour l'instant#Silence et rEflexion";var texting = `
 <br/>
 **Retour au camp**
 <br/>
 <br/>
-De retour au camp, Xalendan est envahi par des questions. Devrait-il parler de ce qu’il a vu dans le temple, au risque de provoquer inquiétude et curiosité chez ses compagnons ? Ou est-il préférable de garder ces informations secrètes jusqu’à ce qu’il en sache plus ?
+De retour au camp, Xalendan est envahi par des questions. Devrait-il parler de ce qu’il a vu dans le temple, au risque de provoquer inquiEtude et curiositE chez ses compagnons ? Ou est-il prEfErable de garder ces informations secrètes jusqu’à ce qu’il en sache plus ?
 <br/>
 <br/>
 

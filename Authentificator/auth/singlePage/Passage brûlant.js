@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer à avancer en quête de vérité#Révélation imminente*Chercher un guide dans cette épreuve ardente#Oui je suis là";var texting = `
+function C() { var choice = "Continuer à avancer en quête de vEritE#REvElation imminente*Chercher un guide dans cette Epreuve ardente#Oui je suis là";var texting = `
 <br/>
 **Passage brûlant**
 <br/>
 <br/>
-Selestan avance avec un sentiment de clarté. Il sait que cette épreuve ne concerne pas seulement la force physique, mais aussi la force intérieure. Les flammes semblent moins menaçantes, comme si elles l’acceptaient peu à peu.
+Selestan avance avec un sentiment de clartE. Il sait que cette Epreuve ne concerne pas seulement la force physique, mais aussi la force intErieure. Les flammes semblent moins menaçantes, comme si elles l’acceptaient peu à peu.
 <br/>
 <br/>
 

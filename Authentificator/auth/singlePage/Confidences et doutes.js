@@ -1,9 +1,9 @@
-function C() { var choice = "Échanger sur leurs propres peurs et incertitudes#Soutien mutuel*Proposer de se lancer dans une quête pour en savoir plus#Alliance déterminée";var texting = `
+function C() { var choice = "Echanger sur leurs propres peurs et incertitudes#Soutien mutuel*Proposer de se lancer dans une quête pour en savoir plus#Alliance dEterminEe";var texting = `
 <br/>
 **Confidences et doutes**
 <br/>
 <br/>
-Le groupe s’ouvre sur ses craintes et ses doutes. Chloé évoque des rêves étranges qu’elle fait depuis qu’ils ont commencé leurs recherches, tandis que Jasson se demande si ces pouvoirs peuvent être contrôlés sans risque. Ensemble, ils se réconfortent et se promettent de rester unis face aux épreuves.
+Le groupe s’ouvre sur ses craintes et ses doutes. ChloE Evoque des rêves Etranges qu’elle fait depuis qu’ils ont commencE leurs recherches, tandis que Jasson se demande si ces pouvoirs peuvent être contrôlEs sans risque. Ensemble, ils se rEconfortent et se promettent de rester unis face aux Epreuves.
 <br/>
 <br/>
 
@@ -25,4 +25,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}ick();}

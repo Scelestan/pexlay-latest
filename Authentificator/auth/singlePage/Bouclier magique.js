@@ -1,9 +1,9 @@
-function C() { var choice = "Renforcer le bouclier pour se protéger#Défense ultime*Dissiper le bouclier pour éviter d’attirer les créatures#Premiers essais";var texting = `
+function C() { var choice = "Renforcer le bouclier pour se protEger#DEfense ultime*Dissiper le bouclier pour Eviter d’attirer les crEatures#Premiers essais";var texting = `
 <br/>
 **Bouclier magique**
 <br/>
 <br/>
-Xalendan tente de maintenir le bouclier magique malgré l’énergie instable qui l’entoure. Le bouclier grandit et devient presque impénétrable, mais il ressent une fatigue croissante, comme si sa propre énergie était drainée.
+Xalendan tente de maintenir le bouclier magique malgrE l’Energie instable qui l’entoure. Le bouclier grandit et devient presque impEnEtrable, mais il ressent une fatigue croissante, comme si sa propre Energie Etait drainEe.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer la forêt mystérieuse#Chapitre 427*Retourner au village pour se reposer#Chapitre 428";var texting = `
+function C() { var choice = "Explorer la forêt mystErieuse#Chapitre 427*Retourner au village pour se reposer#Chapitre 428";var texting = `
 <br/>
 **Chapitre 426**
 <br/>
 <br/>
-Selestan continue son périple, faisant face aux mystères du royaume. Le chemin est parsemé de défis et de révélations sur le dieu de la mort, Pazat. Chaque choix pourrait tout changer...
+Selestan continue son pEriple, faisant face aux mystères du royaume. Le chemin est parsemE de dEfis et de rEvElations sur le dieu de la mort, Pazat. Chaque choix pourrait tout changer...
 <br/>
 <br/>
 

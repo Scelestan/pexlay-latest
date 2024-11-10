@@ -1,9 +1,9 @@
-function C() { var choice = "Poser des questions sur l'origine de l'ordre#Héritage des fondateurs*Suivre en silence#Observer en silence et écouter#Révélation ultime";var texting = `
+function C() { var choice = "Poser des questions sur l'origine de l'ordre#HEritage des fondateurs*Suivre en silence#Observer en silence et Ecouter#REvElation ultime";var texting = `
 <br/>
 **Rencontre avec les anciens**
 <br/>
 <br/>
-Dans cette vision, Xalendan rencontre les esprits des premiers fondateurs. Ils lui révèlent l’existence d’un ancien pacte qui a façonné l’ordre, un serment de protection, mais aussi de secret. Ces révélations plongent Xalendan dans une intense réflexion sur son propre rôle.
+Dans cette vision, Xalendan rencontre les esprits des premiers fondateurs. Ils lui rEvèlent l’existence d’un ancien pacte qui a façonnE l’ordre, un serment de protection, mais aussi de secret. Ces rEvElations plongent Xalendan dans une intense rEflexion sur son propre rôle.
 <br/>
 <br/>
 

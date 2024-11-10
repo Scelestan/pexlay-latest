@@ -1,9 +1,9 @@
-function C() { var choice = "Renforcer leur engagement envers l’autre#Fraternité*Planifier ensemble les prochaines étapes#Stratégie collective";var texting = `
+function C() { var choice = "Renforcer leur engagement envers l’autre#FraternitE*Planifier ensemble les prochaines Etapes#StratEgie collective";var texting = `
 <br/>
 **Soutien mutuel**
 <br/>
 <br/>
-Selestan et son compagnon se soutiennent mutuellement, chacun sachant que l’autre sera là dans les moments difficiles. Ils décident de coordonner leurs actions, formant une équipe unie et solide, prête à affronter tous les obstacles qui pourraient se dresser devant eux.
+Selestan et son compagnon se soutiennent mutuellement, chacun sachant que l’autre sera là dans les moments difficiles. Ils dEcident de coordonner leurs actions, formant une Equipe unie et solide, prête à affronter tous les obstacles qui pourraient se dresser devant eux.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Observer les allées et venues des autres chevaliers avant d'agir#Préparation minutieuse*Faire une pause pour finaliser le plan#Réflexion commune";var texting = `
+function C() { var choice = "Observer les allEes et venues des autres chevaliers avant d'agir#PrEparation minutieuse*Faire une pause pour finaliser le plan#REflexion commune";var texting = `
 <br/>
 **Patience vigilante**
 <br/>
 <br/>
-Plutôt que de se précipiter, Xalendan et ses amis choisissent de prendre leur temps pour observer et planifier. En surveillant les autres chevaliers, ils espèrent identifier un moment où les lieux seront déserts, leur offrant ainsi une chance d’explorer en toute discrétion.
+Plutôt que de se prEcipiter, Xalendan et ses amis choisissent de prendre leur temps pour observer et planifier. En surveillant les autres chevaliers, ils espèrent identifier un moment où les lieux seront dEserts, leur offrant ainsi une chance d’explorer en toute discrEtion.
 <br/>
 <br/>
 

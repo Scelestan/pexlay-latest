@@ -1,9 +1,9 @@
-function C() { var choice = "Confier tous les détails à Chloé#Complicité renforcée*Lui parler de ses doutes, sans mentionner certains éléments#Réserve prudente";var texting = `
+function C() { var choice = "Confier tous les dEtails à ChloE#ComplicitE renforcEe*Lui parler de ses doutes, sans mentionner certains ElEments#REserve prudente";var texting = `
 <br/>
 **Partage secret**
 <br/>
 <br/>
-Xalendan choisit finalement de se confier à Chloé, ressentant le besoin d’alléger le poids de ses découvertes. Ensemble, ils discutent longuement, et Chloé partage ses propres réflexions et intuitions. Ce moment de partage renforce leur lien, et Chloé propose des idées pour explorer et maîtriser ce pouvoir.
+Xalendan choisit finalement de se confier à ChloE, ressentant le besoin d’allEger le poids de ses dEcouvertes. Ensemble, ils discutent longuement, et ChloE partage ses propres rEflexions et intuitions. Ce moment de partage renforce leur lien, et ChloE propose des idEes pour explorer et maîtriser ce pouvoir.
 <br/>
 <br/>
 

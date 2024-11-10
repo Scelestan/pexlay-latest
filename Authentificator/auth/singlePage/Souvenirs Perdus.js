@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer à lire#Éveil des secrets*quedal#Retourner discrètement dans la chambre#Exploration de la bibliothèque";var texting = `
+function C() { var choice = "Continuer à lire#Eveil des secrets*quedal#Retourner discrètement dans la chambre#Exploration de la bibliothèque";var texting = `
 <br/>
 **Souvenirs perdus**
 <br/>
 <br/>
-En ouvrant un livre à la couverture poussiéreuse, Xalendan se sent soudain emporté dans un flot de souvenirs anciens. Des images floues d'un passé qu'il ne reconnaît pas apparaissent : des forêts anciennes, des chants en langue elfique, et des visages inconnus mais étrangement familiers...
+En ouvrant un livre à la couverture poussiEreuse, Xalendan se sent soudain emportE dans un flot de souvenirs anciens. Des images floues d'un passE qu'il ne reconnaît pas apparaissent : des forêts anciennes, des chants en langue elfique, et des visages inconnus mais Etrangement familiers...
 <br/>
 <br/>
 

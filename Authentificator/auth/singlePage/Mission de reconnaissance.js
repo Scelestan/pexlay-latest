@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre les pistes laissées par les créatures#Traque silencieuse*Explorer les ruines pour y trouver des indices#Alliance secrète";var texting = `
+function C() { var choice = "Suivre les pistes laissEes par les crEatures#Traque silencieuse*Explorer les ruines pour y trouver des indices#Alliance secrète";var texting = `
 <br/>
 **Mission de reconnaissance**
 <br/>
 <br/>
-Avec leurs amis, Xalendan et Chloé suivent les traces des créatures repoussées par le bouclier. Les empreintes mènent à une caverne mystérieuse, dissimulée par la végétation dense de la forêt.
+Avec leurs amis, Xalendan et ChloE suivent les traces des crEatures repoussEes par le bouclier. Les empreintes mènent à une caverne mystErieuse, dissimulEe par la vEgEtation dense de la forêt.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Observer discrètement#Maîtrise secrète*quedal#Se joindre à l'entraînement#Rencontre imprévue#Entraînement nocturne";var texting = `
+function C() { var choice = "Observer discrètement#Maîtrise secrète*quedal#Se joindre à l'entraînement#Rencontre imprEvue#Entraînement nocturne";var texting = `
 <br/>
 **Entraînement nocturne**
 <br/>
 <br/>
-Alors que Xalendan se promène dans les couloirs, il aperçoit une lueur d'activité dans la cour d'entraînement. Plusieurs chevaliers sont rassemblés, effectuant des mouvements qu'il ne reconnaît pas. Intrigué, il décide de s'approcher discrètement.
+Alors que Xalendan se promène dans les couloirs, il aperçoit une lueur d'activitE dans la cour d'entraînement. Plusieurs chevaliers sont rassemblEs, effectuant des mouvements qu'il ne reconnaît pas. IntriguE, il dEcide de s'approcher discrètement.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Observer de loin sans attirer l’attention#Prudence discrète*Revenir en arrière et s’éloigner pour éviter les problèmes#Retraite calculée";var texting = `
+function C() { var choice = "Observer de loin sans attirer l’attention#Prudence discrète*Revenir en arrière et s’Eloigner pour Eviter les problèmes#Retraite calculEe";var texting = `
 <br/>
 **Retraite furtive**
 <br/>
 <br/>
-Préférant éviter un conflit, Xalendan décide de reculer. Parfois, la meilleure stratégie est de se retirer discrètement. Il sait que la patience pourrait lui offrir une nouvelle opportunité pour découvrir la vérité.
+PrEfErant Eviter un conflit, Xalendan dEcide de reculer. Parfois, la meilleure stratEgie est de se retirer discrètement. Il sait que la patience pourrait lui offrir une nouvelle opportunitE pour dEcouvrir la vEritE.
 <br/>
 <br/>
 

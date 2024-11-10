@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer cette nouvelle connexion en cherchant un lien avec les anciens#Appel aux ancêtres*Retirer progressivement leurs énergies pour éviter un danger#Secret";var texting = `
+function C() { var choice = "Explorer cette nouvelle connexion en cherchant un lien avec les anciens#Appel aux ancêtres*Retirer progressivement leurs Energies pour Eviter un danger#Secret";var texting = `
 <br/>
 **Connexion spirituelle**
 <br/>
 <br/>
-Xalendan et Chloé se sentent reliés à une force ancienne, comme s'ils entraient en communion avec les esprits des chevaliers qui les ont précédés. C’est un moment de révélation qui pourrait leur ouvrir des perspectives encore jamais explorées.
+Xalendan et ChloE se sentent reliEs à une force ancienne, comme s'ils entraient en communion avec les esprits des chevaliers qui les ont prEcEdEs. C’est un moment de rEvElation qui pourrait leur ouvrir des perspectives encore jamais explorEes.
 <br/>
 <br/>
 

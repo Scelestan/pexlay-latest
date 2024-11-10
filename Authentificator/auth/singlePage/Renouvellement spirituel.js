@@ -1,9 +1,9 @@
-function C() { var choice = "Fermer les yeux pour savourer le calme intérieur#Épanouissement intérieur*Inspirer profondément pour absorber l'énergie de la nature#Énergie revitalisante";var texting = `
+function C() { var choice = "Fermer les yeux pour savourer le calme intErieur#Epanouissement intErieur*Inspirer profondEment pour absorber l'Energie de la nature#Energie revitalisante";var texting = `
 <br/>
 **Renouvellement spirituel**
 <br/>
 <br/>
-Selestan s'arrête un moment et prend une grande inspiration, sentant l’air frais envahir ses poumons. Ce souffle profond lui rappelle l’importance de la tranquillité et du ressourcement. Il réalise que chaque défi l’a transformé, et qu’il est prêt à affronter les épreuves futures avec une énergie renouvelée.
+Selestan s'arrête un moment et prend une grande inspiration, sentant l’air frais envahir ses poumons. Ce souffle profond lui rappelle l’importance de la tranquillitE et du ressourcement. Il rEalise que chaque dEfi l’a transformE, et qu’il est prêt à affronter les Epreuves futures avec une Energie renouvelEe.
 <br/>
 <br/>
 

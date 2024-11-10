@@ -1,13 +1,14 @@
-function C() { var choice = "Suivre la personne de loin sans se faire remarquer#Surveillance silencieuse*Rester caché et écouter pour en apprendre plus#Écoute attentive";var texting = `
+function C() { var choice = "Guetter le moindre signe de danger#DEtection*Prendre un moment pour Evaluer ses options#Prudence avisEe";var texting = `
 <br/>
 **Vigilance accrue**
 <br/>
 <br/>
-Xalendan suit discrètement la personne sans révéler sa présence. Chaque mouvement est calculé, chaque bruit évité. En se cachant dans les ombres, il espère pouvoir obtenir des informations sans s’exposer aux risques potentiels de cette interaction.
+Selestan reste sur ses gardes, attentif au moindre indice qui pourrait trahir la prEsence d’un danger. Ce niveau d’attention aiguise ses sens, et il se sent prêt à rEagir face à toute menace.
 <br/>
 <br/>
 
 ---
+
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
 ajoue.changeCouleur("Cadre", "rgb(241,241,241)");
@@ -24,4 +25,5 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}false);
 charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}

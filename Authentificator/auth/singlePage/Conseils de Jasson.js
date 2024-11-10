@@ -1,9 +1,9 @@
-function C() { var choice = "Écouter attentivement les idées de Jasson pour des actions futures#Planification stratégique*Proposer une approche plus discrète pour éviter de se faire remarquer#Chapitre 1";var texting = `
+function C() { var choice = "Ecouter attentivement les idEes de Jasson pour des actions futures#Planification stratEgique*Proposer une approche plus discrète pour Eviter de se faire remarquer#Chapitre 1";var texting = `
 <br/>
 **Conseils de Jasson**
 <br/>
 <br/>
-Jasson, toujours réfléchi et stratégique, propose de prendre des mesures pour approfondir leurs découvertes sans alerter les autres membres de l’ordre. Il évoque des tactiques de prudence et de discrétion, sachant qu’une imprudence pourrait les exposer à des dangers inattendus.
+Jasson, toujours rEflEchi et stratEgique, propose de prendre des mesures pour approfondir leurs dEcouvertes sans alerter les autres membres de l’ordre. Il Evoque des tactiques de prudence et de discrEtion, sachant qu’une imprudence pourrait les exposer à des dangers inattendus.
 <br/>
 <br/>
 
@@ -23,4 +23,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}.click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}lick();}

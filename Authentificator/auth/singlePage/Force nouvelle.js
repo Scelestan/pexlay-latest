@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer d’autres symboles pour découvrir leurs secrets#Marques mystiques*Retourner à l’état initial de méditation#Oui je suis là";var texting = `
+function C() { var choice = "Explorer d’autres symboles pour dEcouvrir leurs secrets#Marques mystiques*Retourner à l’Etat initial de mEditation#Oui je suis là";var texting = `
 <br/>
 **Force nouvelle**
 <br/>
 <br/>
-Enivré par cette énergie, Selestan commence à parcourir les autres symboles, chacun d’eux révélant un aspect différent du savoir ancien. Il sait que ces symboles ont le pouvoir de transformer son destin, mais il se demande si sa quête le ramènera finalement à sa source.
+EnivrE par cette Energie, Selestan commence à parcourir les autres symboles, chacun d’eux rEvElant un aspect diffErent du savoir ancien. Il sait que ces symboles ont le pouvoir de transformer son destin, mais il se demande si sa quête le ramènera finalement à sa source.
 <br/>
 <br/>
 

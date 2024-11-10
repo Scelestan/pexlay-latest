@@ -1,9 +1,9 @@
-function C() { var choice = "Examiner les artefacts pour découvrir leur pouvoir#Nouvelle découverte*Quitter la chambre avant que la magie ne s'intensifie#Révélation mystique";var texting = `
+function C() { var choice = "Examiner les artefacts pour dEcouvrir leur pouvoir#Nouvelle dEcouverte*Quitter la chambre avant que la magie ne s'intensifie#REvElation mystique";var texting = `
 <br/>
 **Chambre des souvenirs**
 <br/>
 <br/>
-Xalendan examine les artefacts de plus près et découvre qu’ils sont imprégnés d’une ancienne magie. Cette chambre semble être une relique des premiers chevaliers du Sphinx, qui ont laissé leur savoir pour guider les générations futures.
+Xalendan examine les artefacts de plus près et dEcouvre qu’ils sont imprEgnEs d’une ancienne magie. Cette chambre semble être une relique des premiers chevaliers du Sphinx, qui ont laissE leur savoir pour guider les gEnErations futures.
 <br/>
 <br/>
 

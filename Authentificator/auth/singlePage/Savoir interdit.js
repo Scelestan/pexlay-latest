@@ -1,9 +1,9 @@
-function C() { var choice = "Expérimenter un sort découvert dans le livre#Essai mystique*Ranger le livre et poursuivre son exploration#Discrétion assurée";var texting = `
+function C() { var choice = "ExpErimenter un sort dEcouvert dans le livre#Essai mystique*Ranger le livre et poursuivre son exploration#DiscrEtion assurEe";var texting = `
 <br/>
 **Savoir interdit**
 <br/>
 <br/>
-Un sort simple attire l'attention de Xalendan. Il se demande s'il peut tester cette incantation, mais il sait que toute magie expérimentale pourrait avoir des conséquences imprévues. Ce risque en vaut-il la peine ?
+Un sort simple attire l'attention de Xalendan. Il se demande s'il peut tester cette incantation, mais il sait que toute magie expErimentale pourrait avoir des consEquences imprEvues. Ce risque en vaut-il la peine ?
 <br/>
 <br/>
 

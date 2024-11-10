@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer le duel malgré l'épuisement#Épreuve finale*Se retirer pour se reposer#Mettre fin au duel pour éviter de se blesser#Maîtrise des anciens";var texting = `
+function C() { var choice = "Continuer le duel malgrE l'Epuisement#Epreuve finale*Se retirer pour se reposer#Mettre fin au duel pour Eviter de se blesser#Maîtrise des anciens";var texting = `
 <br/>
 **Le prix de la puissance**
 <br/>
 <br/>
-Le duel s'intensifie. Xalendan, épuisé, sent son contrôle vaciller, mais il est déterminé à prouver sa force. Son mentor l’observe attentivement, évaluant si son élève est prêt à assumer le fardeau de ces savoirs anciens.
+Le duel s'intensifie. Xalendan, EpuisE, sent son contrôle vaciller, mais il est dEterminE à prouver sa force. Son mentor l’observe attentivement, Evaluant si son Elève est prêt à assumer le fardeau de ces savoirs anciens.
 <br/>
 <br/>
 

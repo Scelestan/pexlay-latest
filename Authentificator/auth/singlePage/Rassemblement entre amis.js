@@ -1,9 +1,9 @@
-function C() { var choice = "Discuter des prochaines étapes avec Chloé et Jasson#Stratégie de groupe*Proposer un plan d’exploration en équipe#Plan audacieux";var texting = `
+function C() { var choice = "Discuter des prochaines Etapes avec ChloE et Jasson#StratEgie de groupe*Proposer un plan d’exploration en Equipe#Plan audacieux";var texting = `
 <br/>
 **Rassemblement entre amis**
 <br/>
 <br/>
-Xalendan retrouve ses amis Chloé et Jasson. Ensemble, ils discutent des mystères du château et envisagent des moyens d’explorer certains endroits interdits. Chacun partage ses observations, et ils décident de formuler un plan pour leur prochaine aventure.
+Xalendan retrouve ses amis ChloE et Jasson. Ensemble, ils discutent des mystères du château et envisagent des moyens d’explorer certains endroits interdits. Chacun partage ses observations, et ils dEcident de formuler un plan pour leur prochaine aventure.
 <br/>
 <br/>
 

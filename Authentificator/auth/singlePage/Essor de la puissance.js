@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer l'entraînement#Maîtrise complète*quedal#Mettre fin à l'apprentissage#Éveil de la maîtrise";var texting = `
+function C() { var choice = "Continuer l'entraînement#Maîtrise complète*quedal#Mettre fin à l'apprentissage#Eveil de la maîtrise";var texting = `
 <br/>
 **Essor de la puissance**
 <br/>
 <br/>
-À mesure que les semaines passent, Xalendan sent une force nouvelle émaner de lui. Cette technique interdite n'est pas seulement une forme de magie ; elle est une extension de son être. Mais l'ombre du danger plane sur cet apprentissage...
+À mesure que les semaines passent, Xalendan sent une force nouvelle Emaner de lui. Cette technique interdite n'est pas seulement une forme de magie ; elle est une extension de son être. Mais l'ombre du danger plane sur cet apprentissage...
 <br/>
 <br/>
 

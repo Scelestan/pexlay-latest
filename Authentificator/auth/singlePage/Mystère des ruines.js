@@ -1,9 +1,9 @@
-function C() { var choice = "Examiner les ruines de plus près#Découverte ancienne*Réciter un sortilège pour ouvrir un passage#Énigmes de la forêt#Exploration discrète";var texting = `
+function C() { var choice = "Examiner les ruines de plus près#DEcouverte ancienne*REciter un sortilège pour ouvrir un passage#Enigmes de la forêt#Exploration discrète";var texting = `
 <br/>
 **Mystère des ruines**
 <br/>
 <br/>
-Arrivé devant de vieilles ruines cachées au cœur de la forêt, Xalendan ressent une étrange énergie. Les murs semblent porter des inscriptions à moitié effacées, témoins d’une époque oubliée. Peut-être renferment-elles un savoir caché…
+ArrivE devant de vieilles ruines cachEes au cœur de la forêt, Xalendan ressent une Etrange Energie. Les murs semblent porter des inscriptions à moitiE effacEes, tEmoins d’une Epoque oubliEe. Peut-être renferment-elles un savoir cachE…
 <br/>
 <br/>
 

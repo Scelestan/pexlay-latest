@@ -1,9 +1,9 @@
-function C() { var choice = "Se déplacer en silence pour éviter d’attirer l’attention#Pas feutrés*Observer les signes de présence autour de lui#Perception accrue";var texting = `
+function C() { var choice = "Se dEplacer en silence pour Eviter d’attirer l’attention#Pas feutrEs*Observer les signes de prEsence autour de lui#Perception accrue";var texting = `
 <br/>
 **Vigilance discrète**
 <br/>
 <br/>
-Selestan avance avec prudence, attentif aux bruits autour de lui. Chaque mouvement est calculé, chaque son est écouté, car il sait que même un retour au château peut réserver des rencontres inattendues. Son regard scrute les environs, assurant sa sécurité sans rompre le silence.
+Selestan avance avec prudence, attentif aux bruits autour de lui. Chaque mouvement est calculE, chaque son est EcoutE, car il sait que même un retour au château peut rEserver des rencontres inattendues. Son regard scrute les environs, assurant sa sEcuritE sans rompre le silence.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Écrire des détails sur les découvertes pour une analyse future#Récit caché*Garder ces connaissances pour lui seul#Savoir personnel";var texting = `
+function C() { var choice = "Ecrire des dEtails sur les dEcouvertes pour une analyse future#REcit cachE*Garder ces connaissances pour lui seul#Savoir personnel";var texting = `
 <br/>
 **Journal secret**
 <br/>
 <br/>
-Xalendan décide de tenir un journal secret, où il consigne chaque détail de ses découvertes. Il y note ses expériences, les dangers potentiels et les stratégies qu’il développe pour dominer ce pouvoir sans se laisser submerger.
+Xalendan dEcide de tenir un journal secret, où il consigne chaque dEtail de ses dEcouvertes. Il y note ses expEriences, les dangers potentiels et les stratEgies qu’il dEveloppe pour dominer ce pouvoir sans se laisser submerger.
 <br/>
 <br/>
 

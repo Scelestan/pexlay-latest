@@ -1,8 +1,11 @@
-function C() { var choice = "Questionner la silhouette#Le Secret Revele*quedal#Observer en silence#Rencontre etrange";var texting = `
+function C() { var choice = "Questionner la silhouette#Le secret rEvElE*quedal#Observer en silence#Rencontre Etrange";var texting = `
 <br/>
-**etrange Decouverte**
-
-En s'approchant de la silhouette, Xalendan entend quelques mots dans une langue oubliee. La silhouette lève la tête, devoilant un visage ride marque par des tatouages mystiques. Elle le regarde avec un sourire enigmatique et murmure : "Tu n'es pas ici par hasard, jeune chevalier…"
+**Etrange dEcouverte**
+<br/>
+<br/>
+En s'approchant de la silhouette, Xalendan entend quelques mots dans une langue oubliEe. La silhouette lève la tête, dEvoilant un visage ridE marquE par des tatouages mystiques. Elle le regarde avec un sourire Enigmatique et murmure : "Tu n'es pas ici par hasard, jeune chevalier…"
+<br/>
+<br/>
 
 ---
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Écouter les histoires d'Elva sur les anciens dieux#Récits ancestraux*Demander des informations sur les ombres et leur lien avec la mort#Secrets des ombres";var texting = `
+function C() { var choice = "Ecouter les histoires d'Elva sur les anciens dieux#REcits ancestraux*Demander des informations sur les ombres et leur lien avec la mort#Secrets des ombres";var texting = `
 <br/>
 **Sagesse d’Elva**
 <br/>
 <br/>
-Selestan trouve Elva, qui accepte de partager ses connaissances sur le dieu de la mort. Elle lui raconte des récits des anciens dieux, expliquant comment le dieu de la mort, Pazat, a joué un rôle important dans la création et la destruction de certaines formes de vie. Les ombres, selon elle, sont intimement liées à son essence et à son jugement éternel.
+Selestan trouve Elva, qui accepte de partager ses connaissances sur le dieu de la mort. Elle lui raconte des rEcits des anciens dieux, expliquant comment le dieu de la mort, Pazat, a jouE un rôle important dans la crEation et la destruction de certaines formes de vie. Les ombres, selon elle, sont intimement liEes à son essence et à son jugement Eternel.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Organiser une exploration de groupe#Mission de reconnaissance*Garder leurs plans secrets pour éviter les soupçons#Confiance gagnée";var texting = `
+function C() { var choice = "Organiser une exploration de groupe#Mission de reconnaissance*Garder leurs plans secrets pour Eviter les soupçons#Confiance gagnEe";var texting = `
 <br/>
 **Alliance secrète**
 <br/>
 <br/>
-Chloé et Xalendan décident d’organiser une mission discrète avec les autres chevaliers de l’ordre. Ils savent qu’il est dangereux de partir sans préparation, mais leur curiosité est trop forte pour attendre plus longtemps.
+ChloE et Xalendan dEcident d’organiser une mission discrète avec les autres chevaliers de l’ordre. Ils savent qu’il est dangereux de partir sans prEparation, mais leur curiositE est trop forte pour attendre plus longtemps.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser ses sens pour détecter la moindre présence#Pazat 1*Ignorer les détails et se concentrer sur le château#Avancée sereine";var texting = `
+function C() { var choice = "Utiliser ses sens pour dEtecter la moindre prEsence#Pazat 1*Ignorer les dEtails et se concentrer sur le château#AvancEe sereine";var texting = `
 <br/>
 **Perception accrue**
 <br/>
 <br/>
-Le regard aiguisé, Selestan prend conscience de chaque détail. Une branche cassée, un souffle dans le vent : chaque indice l’informe de ce qui se passe autour de lui. En silence, il continue, prêt à faire face à tout imprévu.
+Le regard aiguisE, Selestan prend conscience de chaque dEtail. Une branche cassEe, un souffle dans le vent : chaque indice l’informe de ce qui se passe autour de lui. En silence, il continue, prêt à faire face à tout imprEvu.
 <br/>
 <br/>
 

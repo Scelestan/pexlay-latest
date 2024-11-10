@@ -1,9 +1,9 @@
-function C() { var choice = "Pénétrer dans la caverne#Entrée interdite*Envoyer un éclaireur pour sécuriser l'accès#Mission de reconnaissance";var texting = `
+function C() { var choice = "PEnEtrer dans la caverne#EntrEe interdite*Envoyer un Eclaireur pour sEcuriser l'accès#Mission de reconnaissance";var texting = `
 <br/>
 **Traque silencieuse**
 <br/>
 <br/>
-La caverne semble sombre et profonde, comme si elle menait à un autre monde. Xalendan hésite, mais il ressent l’énergie des créatures dans l’air. Peut-être y trouveront-ils des réponses sur les mystères qui entourent la forêt et l’ordre des chevaliers.
+La caverne semble sombre et profonde, comme si elle menait à un autre monde. Xalendan hEsite, mais il ressent l’Energie des crEatures dans l’air. Peut-être y trouveront-ils des rEponses sur les mystères qui entourent la forêt et l’ordre des chevaliers.
 <br/>
 <br/>
 

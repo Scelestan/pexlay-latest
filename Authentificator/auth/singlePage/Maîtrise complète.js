@@ -1,9 +1,9 @@
-function C() { var choice = "Tester ses compétences en secret#Nouvelle confiance*quedal#Abandonner la technique pour préserver la sécurité#Essor de la puissance";var texting = `
+function C() { var choice = "Tester ses compEtences en secret#Nouvelle confiance*quedal#Abandonner la technique pour prEserver la sEcuritE#Essor de la puissance";var texting = `
 <br/>
 **Maîtrise complète**
 <br/>
 <br/>
-Xalendan se sent enfin prêt à tester cette maîtrise qu'il a acquise en secret. Cette technique pourrait bien lui donner un avantage décisif, mais il sait aussi que sa vie pourrait en dépendre. Que choisira-t-il ?
+Xalendan se sent enfin prêt à tester cette maîtrise qu'il a acquise en secret. Cette technique pourrait bien lui donner un avantage dEcisif, mais il sait aussi que sa vie pourrait en dEpendre. Que choisira-t-il ?
 <br/>
 <br/>
 

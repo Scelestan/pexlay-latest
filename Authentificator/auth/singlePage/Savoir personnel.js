@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser le journal pour se guider dans l’entraînement#Entraînement guidé*Fermer le journal et méditer sur ce savoir#Silence intérieur";var texting = `
+function C() { var choice = "Utiliser le journal pour se guider dans l’entraînement#Entraînement guidE*Fermer le journal et mEditer sur ce savoir#Silence intErieur";var texting = `
 <br/>
 **Savoir personnel**
 <br/>
 <br/>
-Le journal devient une source précieuse pour Xalendan, l’aidant à mieux comprendre son propre potentiel et à développer des techniques spécifiques pour maîtriser ce pouvoir. Cette documentation personnelle l’aide à se sentir plus en contrôle.
+Le journal devient une source prEcieuse pour Xalendan, l’aidant à mieux comprendre son propre potentiel et à dEvelopper des techniques spEcifiques pour maîtriser ce pouvoir. Cette documentation personnelle l’aide à se sentir plus en contrôle.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre la piste jusqu’à une archive secrète#Archive interdite*Rassembler des preuves de la corruption pour se défendre#Dossier accablant";var texting = `
+function C() { var choice = "Suivre la piste jusqu’à une archive secrète#Archive interdite*Rassembler des preuves de la corruption pour se dEfendre#Dossier accablant";var texting = `
 <br/>
 **Investigation secrète**
 <br/>
 <br/>
-Le trio suit la piste de Chloé jusqu’à une section cachée du château où sont conservées les archives les plus sensibles de l'ordre. Ils y découvrent des documents anciens qui révèlent comment certains membres influents de l’ordre ont flirté avec des forces obscures pour accroître leur pouvoir.
+Le trio suit la piste de ChloE jusqu’à une section cachEe du château où sont conservEes les archives les plus sensibles de l'ordre. Ils y dEcouvrent des documents anciens qui rEvèlent comment certains membres influents de l’ordre ont flirtE avec des forces obscures pour accroître leur pouvoir.
 <br/>
 <br/>
 

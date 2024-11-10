@@ -1,9 +1,9 @@
-function C() { var choice = "Se diriger vers un endroit sûr pour éviter d’être surpris#Retraite rapide*Retourner à ses quartiers pour réfléchir en sécurité#Repos nocturne";var texting = `
+function C() { var choice = "Se diriger vers un endroit sûr pour Eviter d’être surpris#Retraite rapide*Retourner à ses quartiers pour rEflEchir en sEcuritE#Repos nocturne";var texting = `
 <br/>
 **Fuite silencieuse**
 <br/>
 <br/>
-Xalendan quitte la bibliothèque discrètement, s’assurant que personne ne l’a vu. Il sait que les informations découvertes ce soir pourraient changer sa vision de l’ordre, mais pour l’instant, il préfère se retirer et réfléchir.
+Xalendan quitte la bibliothèque discrètement, s’assurant que personne ne l’a vu. Il sait que les informations dEcouvertes ce soir pourraient changer sa vision de l’ordre, mais pour l’instant, il prEfère se retirer et rEflEchir.
 <br/>
 <br/>
 

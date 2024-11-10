@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre ses intuitions malgré les conseils reçus#Conviction intérieure*Prendre le temps de réévaluer ses choix#Réflexion personnelle";var texting = `
+function C() { var choice = "Suivre ses intuitions malgrE les conseils reçus#Conviction intErieure*Prendre le temps de rEEvaluer ses choix#REflexion personnelle";var texting = `
 <br/>
 **Instinct personnel**
 <br/>
 <br/>
-Malgré les conseils de ses alliés, Selestan décide de se fier à son instinct. Il se rappelle que parfois, écouter sa propre voix est essentiel. Même si cela signifie aller à contre-courant, il sait que suivre son cœur est la seule voie qui lui est réellement propre.
+MalgrE les conseils de ses alliEs, Selestan dEcide de se fier à son instinct. Il se rappelle que parfois, Ecouter sa propre voix est essentiel. Même si cela signifie aller à contre-courant, il sait que suivre son cœur est la seule voie qui lui est rEellement propre.
 <br/>
 <br/>
 

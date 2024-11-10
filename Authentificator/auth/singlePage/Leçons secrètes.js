@@ -1,9 +1,9 @@
-function C() { var choice = "Accepter l'apprentissage secret#Éveil de la maîtrise*quedal#Refuser par prudence#Rencontre d'un mentor";var texting = `
+function C() { var choice = "Accepter l'apprentissage secret#Eveil de la maîtrise*quedal#Refuser par prudence#Rencontre d'un mentor";var texting = `
 <br/>
 **Leçons secrètes**
 <br/>
 <br/>
-Le maître d'armes pose une main ferme sur l'épaule de Xalendan. "Si tu acceptes, il n'y aura pas de retour en arrière." Un frisson parcourt le jeune chevalier alors qu'il réalise l'importance de cette décision. Acceptera-t-il de se lancer dans un apprentissage clandestin ?
+Le maître d'armes pose une main ferme sur l'Epaule de Xalendan. "Si tu acceptes, il n'y aura pas de retour en arrière." Un frisson parcourt le jeune chevalier alors qu'il rEalise l'importance de cette dEcision. Acceptera-t-il de se lancer dans un apprentissage clandestin ?
 <br/>
 <br/>
 

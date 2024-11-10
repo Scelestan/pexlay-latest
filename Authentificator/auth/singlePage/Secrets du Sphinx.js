@@ -1,9 +1,9 @@
-function C() { var choice = "Lire un passage ancien sur les pouvoirs cachés#Savoir interdit*Fermer le livre et quitter la bibliothèque discrètement#Fuite silencieuse";var texting = `
+function C() { var choice = "Lire un passage ancien sur les pouvoirs cachEs#Savoir interdit*Fermer le livre et quitter la bibliothèque discrètement#Fuite silencieuse";var texting = `
 <br/>
 **Secrets du Sphinx**
 <br/>
 <br/>
-Le livre semble murmurer des secrets interdits, évoquant des pouvoirs cachés et des rituels ancestraux réservés aux membres de l’ordre. Xalendan hésite, sachant qu’en lisant ces passages, il pourrait franchir une ligne invisible.
+Le livre semble murmurer des secrets interdits, Evoquant des pouvoirs cachEs et des rituels ancestraux rEservEs aux membres de l’ordre. Xalendan hEsite, sachant qu’en lisant ces passages, il pourrait franchir une ligne invisible.
 <br/>
 <br/>
 

@@ -1,8 +1,11 @@
-function C() { var choice = "Demander des explications#Revelations du Passe*quedal#Rester silencieux et ecouter#etrange Decouverte";var texting = `
+function C() { var choice = "Demander des explications#REvElations du passE*quedal#Rester silencieux et Ecouter#Etrange dEcouverte";var texting = `
 <br/>
-**Le Secret Revele**
-
-La silhouette commence à devoiler des secrets concernant l'histoire des chevaliers du Sphinx et les epreuves qu'ils devront affronter. Elle parle d'un ancien serment et des alliances mysterieuses formees bien avant l'arrivee des humains sur le continent...
+**Le secret rEvElE**
+<br/>
+<br/>
+La silhouette commence à dEvoiler des secrets concernant l'histoire des chevaliers du Sphinx et les Epreuves qu'ils devront affronter. Elle parle d'un ancien serment et des alliances mystErieuses formEes bien avant l'arrivEe des humains sur le continent...
+<br/>
+<br/>
 
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");

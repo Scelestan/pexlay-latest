@@ -1,9 +1,9 @@
-function C() { var choice = "Se diriger vers la bibliothèque#Livres secrets*Suivre des bruits étranges dans le couloir#Ombres suspectes";var texting = `
+function C() { var choice = "Se diriger vers la bibliothèque#Livres secrets*Suivre des bruits Etranges dans le couloir#Ombres suspectes";var texting = `
 <br/>
 **Exploration nocturne**
 <br/>
 <br/>
-Alors que la nuit enveloppe le château, Xalendan se sent poussé à explorer. Les mystères du château semblent plus accessibles sous le voile de la nuit. Il hésite entre aller vers la bibliothèque, où des secrets anciens peuvent être dissimulés, ou suivre des bruits intrigants dans le couloir.
+Alors que la nuit enveloppe le château, Xalendan se sent poussE à explorer. Les mystères du château semblent plus accessibles sous le voile de la nuit. Il hEsite entre aller vers la bibliothèque, où des secrets anciens peuvent être dissimulEs, ou suivre des bruits intrigants dans le couloir.
 <br/>
 <br/>
 

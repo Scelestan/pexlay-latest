@@ -1,9 +1,9 @@
-function C() { var choice = "Finir le tome et débuter une nouvelle aventure#Fin du tome*Écrire leurs découvertes#Clôturer cette partie de l'histoire#Retour au château";var texting = `
+function C() { var choice = "Finir le tome et dEbuter une nouvelle aventure#Fin du tome*Ecrire leurs dEcouvertes#Clôturer cette partie de l'histoire#Retour au château";var texting = `
 <br/>
 **Nouvelle quête**
 <br/>
 <br/>
-Ce n'est que le début d'une nouvelle aventure pour les jeunes chevaliers du Sphinx. Le poids du savoir et des choix qu’ils ont faits leur ouvre des portes vers des épreuves encore plus grandes, et leurs destins s’entrelacent avec l’ordre qu’ils ont promis de servir.
+Ce n'est que le dEbut d'une nouvelle aventure pour les jeunes chevaliers du Sphinx. Le poids du savoir et des choix qu’ils ont faits leur ouvre des portes vers des Epreuves encore plus grandes, et leurs destins s’entrelacent avec l’ordre qu’ils ont promis de servir.
 <br/>
 <br/>
 

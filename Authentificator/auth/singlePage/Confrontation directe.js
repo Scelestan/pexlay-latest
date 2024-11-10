@@ -1,9 +1,9 @@
-function C() { var choice = "Poser des questions sur l'identité de l’ombre#Interrogation audacieuse*Exiger des réponses immédiates#Confrontation tendue";var texting = `
+function C() { var choice = "Poser des questions sur l'identitE de l’ombre#Interrogation audacieuse*Exiger des rEponses immEdiates#Confrontation tendue";var texting = `
 <br/>
 **Confrontation directe**
 <br/>
 <br/>
-Xalendan décide de confronter la silhouette. Il demande sans détour à l’ombre de révéler son identité. Cette confrontation pourrait lui apporter des réponses, mais aussi engendrer des risques inattendus.
+Xalendan dEcide de confronter la silhouette. Il demande sans dEtour à l’ombre de rEvEler son identitE. Cette confrontation pourrait lui apporter des rEponses, mais aussi engendrer des risques inattendus.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Essayer de déchiffrer les symboles#Savoir caché*Ne rien toucher et observer davantage#Observation silencieuse";var texting = `
+function C() { var choice = "Essayer de dEchiffrer les symboles#Savoir cachE*Ne rien toucher et observer davantage#Observation silencieuse";var texting = `
 <br/>
 **Enigme ancienne**
 <br/>
 <br/>
-Xalendan plisse les yeux, essayant de comprendre le sens de ces symboles. En y regardant de plus près, il devine qu’ils semblent décrire un rituel ancien, une invocation destinée à ouvrir un passage vers des profondeurs encore inconnues du temple. Il hésite, se demandant s’il doit tenter de déchiffrer davantage.
+Xalendan plisse les yeux, essayant de comprendre le sens de ces symboles. En y regardant de plus près, il devine qu’ils semblent dEcrire un rituel ancien, une invocation destinEe à ouvrir un passage vers des profondeurs encore inconnues du temple. Il hEsite, se demandant s’il doit tenter de dEchiffrer davantage.
 <br/>
 <br/>
 

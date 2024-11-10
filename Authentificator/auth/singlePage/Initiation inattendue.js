@@ -1,9 +1,9 @@
-function C() { var choice = "Accepter la leçon#Épreuve de maîtrise*quedal#Observer en silence#Découverte d'une technique";var texting = `
+function C() { var choice = "Accepter la leçon#Epreuve de maîtrise*quedal#Observer en silence#DEcouverte d'une technique";var texting = `
 <br/>
 **Initiation inattendue**
 <br/>
 <br/>
-Le maître d'armes interrompt l'entraînement en apercevant Xalendan. Plutôt que de le chasser, il lui propose une initiation rapide. "Montre-moi ce que tu sais faire, jeune chevalier," dit-il en souriant. C'est une chance rare, mais risquée.
+Le maître d'armes interrompt l'entraînement en apercevant Xalendan. Plutôt que de le chasser, il lui propose une initiation rapide. "Montre-moi ce que tu sais faire, jeune chevalier," dit-il en souriant. C'est une chance rare, mais risquEe.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer d’écrire ses découvertes pour mieux comprendre#Analyse approfondie*Garder le journal en sécurité pour éviter d'attirer l’attention#Cache secrète";var texting = `
+function C() { var choice = "Continuer d’Ecrire ses dEcouvertes pour mieux comprendre#Analyse approfondie*Garder le journal en sEcuritE pour Eviter d'attirer l’attention#Cache secrète";var texting = `
 <br/>
 **Journal des secrets**
 <br/>
 <br/>
-Dans le calme de la nuit, Xalendan consigne toutes ses découvertes dans un journal secret. Il se rend compte que ses notes constituent un témoignage dangereux, mais aussi précieux, et il décide de bien le dissimuler pour qu’il ne tombe jamais entre de mauvaises mains.
+Dans le calme de la nuit, Xalendan consigne toutes ses dEcouvertes dans un journal secret. Il se rend compte que ses notes constituent un tEmoignage dangereux, mais aussi prEcieux, et il dEcide de bien le dissimuler pour qu’il ne tombe jamais entre de mauvaises mains.
 <br/>
 <br/>
 

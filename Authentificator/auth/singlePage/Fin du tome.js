@@ -1,11 +1,12 @@
-function C() { var choice = "Revenir au début pour explorer d'autres chemins#Commencer depuis le début*quedal#Merci pour cette lecture#Fin de l'histoire";var texting = `
+function C() { var choice = "Revenir au dEbut pour explorer d'autres chemins#Intro*Intro#Merci pour cette lecture#Fin de l'histoire";var texting = `
 <br/>
 **Fin du tome**
 <br/>
 <br/>
-Merci d’avoir suivi l’histoire des chevaliers du Sphinx. Ce n’est qu’une partie de leur destinée ; bien des secrets attendent d'être révélés et des choix restent à faire. Prêt à explorer de nouveaux chemins ?
+Merci d’avoir suivi l’histoire des chevaliers du Sphinx. Ce n’est qu’une partie de leur destinEe ; bien des secrets attendent d'être rEvElEs et des choix restent à faire. Prêt à explorer de nouveaux chemins ?
 <br/>
 <br/>
+
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
 ajoue.changeCouleur("Cadre", "rgb(241,241,241)");
@@ -22,4 +23,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}d("DIV7").click();}

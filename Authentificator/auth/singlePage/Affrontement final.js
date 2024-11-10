@@ -1,9 +1,9 @@
-function C() { var choice = "Lancer un appel à l’ordre pour éradiquer la corruption#Justice pour l'ordre*Se battre contre les dirigeants corrompus si nécessaire#Dernier combat";var texting = `
+function C() { var choice = "Lancer un appel à l’ordre pour Eradiquer la corruption#Justice pour l'ordre*Se battre contre les dirigeants corrompus si nEcessaire#Dernier combat";var texting = `
 <br/>
 **Affrontement final**
 <br/>
 <br/>
-Xalendan prononce un appel à l’intégrité, exhortant les chevaliers à se joindre à lui pour purifier l’ordre. Certains dirigeants corrompus se sentent menacés et sont prêts à se défendre coûte que coûte, mais Xalendan et ses amis se tiennent prêts à livrer une bataille pour l’honneur de l'ordre.
+Xalendan prononce un appel à l’intEgritE, exhortant les chevaliers à se joindre à lui pour purifier l’ordre. Certains dirigeants corrompus se sentent menacEs et sont prêts à se dEfendre coûte que coûte, mais Xalendan et ses amis se tiennent prêts à livrer une bataille pour l’honneur de l'ordre.
 <br/>
 <br/>
 

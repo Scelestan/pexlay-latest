@@ -1,9 +1,9 @@
-function C() { var choice = "Retourner au château pour informer ses amis#Confiance gagnée*Explorer les environs à la recherche d'autres secrets#Défense ultime";var texting = `
+function C() { var choice = "Retourner au château pour informer ses amis#Confiance gagnEe*Explorer les environs à la recherche d'autres secrets#DEfense ultime";var texting = `
 <br/>
 **Victoire inattendue**
 <br/>
 <br/>
-Après avoir repoussé les créatures, Xalendan se sent plus confiant dans ses nouvelles capacités. Il sait qu’il devra apprendre à maîtriser cette énergie, mais il a gagné en assurance et est prêt à partager ses découvertes avec ses amis.
+Après avoir repoussE les crEatures, Xalendan se sent plus confiant dans ses nouvelles capacitEs. Il sait qu’il devra apprendre à maîtriser cette Energie, mais il a gagnE en assurance et est prêt à partager ses dEcouvertes avec ses amis.
 <br/>
 <br/>
 

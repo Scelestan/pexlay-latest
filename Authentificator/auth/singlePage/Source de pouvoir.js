@@ -1,9 +1,9 @@
-function C() { var choice = "Tenter de toucher le cristal#Transfert d'énergie*Réciter un sort pour comprendre l'énergie#Éveil des pierres";var texting = `
+function C() { var choice = "Tenter de toucher le cristal#Transfert d'Energie*REciter un sort pour comprendre l'Energie#Eveil des pierres";var texting = `
 <br/>
 **Source de pouvoir**
 <br/>
 <br/>
-Xalendan s’approche du cristal, fasciné par son éclat. Il tend la main, hésitant, avant de finalement effleurer sa surface lisse. Une décharge d’énergie traverse son corps, éveillant en lui un nouveau potentiel.
+Xalendan s’approche du cristal, fascinE par son Eclat. Il tend la main, hEsitant, avant de finalement effleurer sa surface lisse. Une dEcharge d’Energie traverse son corps, Eveillant en lui un nouveau potentiel.
 <br/>
 <br/>
 

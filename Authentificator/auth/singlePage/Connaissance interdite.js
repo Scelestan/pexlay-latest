@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer l'apprentissage#Savoir ancestral*Exploration solitaire#Revenir au château pour méditer sur ses choix#Savoir caché";var texting = `
+function C() { var choice = "Continuer l'apprentissage#Savoir ancestral*Exploration solitaire#Revenir au château pour mEditer sur ses choix#Savoir cachE";var texting = `
 <br/>
 **Connaissance interdite**
 <br/>
 <br/>
-Xalendan s’engage plus profondément dans cet apprentissage, découvrant des secrets anciens sur l’ordre des chevaliers du Sphinx. Ce savoir pourrait devenir une arme puissante, mais il sait qu’il pourrait aussi devenir un danger pour lui-même.
+Xalendan s’engage plus profondEment dans cet apprentissage, dEcouvrant des secrets anciens sur l’ordre des chevaliers du Sphinx. Ce savoir pourrait devenir une arme puissante, mais il sait qu’il pourrait aussi devenir un danger pour lui-même.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Laisser leurs esprits rejoindre les anciens héros dans l’au-delà#Pazat 1";var texting = `
+function C() { var choice = "Laisser leurs esprits rejoindre les anciens hEros dans l’au-delà#Pazat 1";var texting = `
 <br/>
 **Ultime adieu**
 <br/>
 <br/>
-Les âmes de Selestan, Lynaée, Chloé, et Xalendan s’élèvent ensemble, rejoignant les anciens héros dans un au-delà glorieux. Leur passage marque la fin d’une ère, et le début d’une nouvelle légende qui inspirera ceux qui suivront leur chemin.
+Les âmes de Selestan, LynaEe, ChloE, et Xalendan s’Elèvent ensemble, rejoignant les anciens hEros dans un au-delà glorieux. Leur passage marque la fin d’une ère, et le dEbut d’une nouvelle lEgende qui inspirera ceux qui suivront leur chemin.
 <br/>
 <br/>
 

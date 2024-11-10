@@ -1,9 +1,9 @@
-function C() { var choice = "Ignorer la présence et continuer le duel#Corruption*Essayer de comprendre l’aura mystérieuse autour#Discussion entre amis*Choisir la mort#Chapitre 498";var texting = `
+function C() { var choice = "Ignorer la prEsence et continuer le duel#Corruption*Essayer de comprendre l’aura mystErieuse autour#Discussion entre amis*Choisir la mort#Chapitre 498";var texting = `
 <br/>
 **Pazat 500**
 <br/>
 <br/>
-Dans un duel intense, Selestan sent une présence mystérieuse mais décide de se concentrer sur son adversaire. Chaque mouvement est crucial, et son choix pourrait changer le cours de la bataille.
+Dans un duel intense, Selestan sent une prEsence mystErieuse mais dEcide de se concentrer sur son adversaire. Chaque mouvement est crucial, et son choix pourrait changer le cours de la bataille.
 <br/>
 <br/>
 

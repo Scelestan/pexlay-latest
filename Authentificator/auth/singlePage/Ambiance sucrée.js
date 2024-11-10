@@ -8,7 +8,6 @@ En voyant Lynaée pleurer, Selestan se sent partagé entre l’envie de lui appo
 <br/>
 
 ---
-
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
 ajoue.changeCouleur("Cadre", "rgb(241,241,241)");

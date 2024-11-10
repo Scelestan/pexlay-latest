@@ -1,9 +1,9 @@
-function C() { var choice = "Accepter les révélations et retourner à sa mission#Destin révélé*Laisser la présence de Pazat le guider davantage#Oui je suis là";var texting = `
+function C() { var choice = "Accepter les rEvElations et retourner à sa mission#Destin rEvElE*Laisser la prEsence de Pazat le guider davantage#Oui je suis là";var texting = `
 <br/>
 **Fusion ultime**
 <br/>
 <br/>
-Alors que Selestan fusionne avec la présence de Pazat, il perçoit des fragments de son destin. Sa mission est devenue claire, mais il sait que chaque réponse mène à de nouvelles questions. Il retourne, prêt à faire face aux défis qui l’attendent.
+Alors que Selestan fusionne avec la prEsence de Pazat, il perçoit des fragments de son destin. Sa mission est devenue claire, mais il sait que chaque rEponse mène à de nouvelles questions. Il retourne, prêt à faire face aux dEfis qui l’attendent.
 <br/>
 <br/>
 

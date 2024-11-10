@@ -1,4 +1,4 @@
-function C() { var choice = "Continuer#Motivation*Dénuer de sens#Le désespoir*Inluence Positive#Une épée trop lourde*Inluence Négative#Les fardeaux";var texting = `
+function C() { var choice = "Continuer#Motivation*DEnuer de sens#Le dEsespoir*Inluence Positive#Une EpEe trop lourde*Inluence NEgative#Les fardeaux";var texting = `
 <br/>
 <br/>** Les secrets **
 <br/>

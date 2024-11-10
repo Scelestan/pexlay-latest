@@ -1,9 +1,9 @@
-function C() { var choice = "Interroger la silhouette#Étrange découverte*quedal#Fuir avant d'être remarqué#Exploration de la bibliothèque";var texting = `
+function C() { var choice = "Interroger la silhouette#Etrange dEcouverte*quedal#Fuir avant d'être remarquE#Exploration de la bibliothèque";var texting = `
 <br/>
-**Rencontre étrange**
+**Rencontre Etrange**
 <br/>
 <br/>
-À l'autre bout de la salle, une silhouette encapuchonnée semble scruter les livres avec une attention particulière. Elle murmure quelque chose d'incompréhensible dans une langue ancienne. Xalendan hésite, ne sachant s'il doit approcher ou rester caché dans l'ombre...
+À l'autre bout de la salle, une silhouette encapuchonnEe semble scruter les livres avec une attention particulière. Elle murmure quelque chose d'incomprEhensible dans une langue ancienne. Xalendan hEsite, ne sachant s'il doit approcher ou rester cachE dans l'ombre...
 <br/>
 <br/>
 

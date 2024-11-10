@@ -1,13 +1,11 @@
-function C() { var choice = "Rester en retrait et observer les mouvements#Silence stratégique*Chercher un autre chemin pour éviter l'ombre#Évasion silencieuse";var texting = `
+function C() { var choice = "Rester immobile et observer#Vigilance*Noter les comportements de l'ombre#Analyse attentive";var texting = `
 <br/>
 **Observation prudente**
 <br/>
 <br/>
-Xalendan décide de rester à une distance sécurisée, espérant comprendre la direction et l’intention de cette ombre. Sa prudence lui permet d’éviter toute confrontation, mais il commence à se demander si l’ombre est consciente de sa présence.
+Selestan se cache dans l’obscuritE et observe attentivement l’ombre. Chaque mouvement de cette entitE mystErieuse lui fournit des indices. Il comprend que l’observation est parfois la meilleure dEfense face à l’inconnu.
 <br/>
 <br/>
-
----
 
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
@@ -25,4 +23,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}dimention(false, "page1");document.getElementById("DIV7").click();}

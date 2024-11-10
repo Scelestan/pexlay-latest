@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser le pouvoir pour un sort défensif#Bouclier magique*Essayer une attaque renforcée#Transfert d'énergie";var texting = `
+function C() { var choice = "Utiliser le pouvoir pour un sort dEfensif#Bouclier magique*Essayer une attaque renforcEe#Transfert d'Energie";var texting = `
 <br/>
 **Premiers essais**
 <br/>
 <br/>
-Xalendan se concentre pour canaliser sa magie dans un bouclier protecteur. La barrière qui apparaît est bien plus puissante que celles qu’il a créées jusqu’ici. Mais ce pouvoir semble aussi attirer l’attention d’autres créatures de la forêt…
+Xalendan se concentre pour canaliser sa magie dans un bouclier protecteur. La barrière qui apparaît est bien plus puissante que celles qu’il a crEEes jusqu’ici. Mais ce pouvoir semble aussi attirer l’attention d’autres crEatures de la forêt…
 <br/>
 <br/>
 

@@ -1,15 +1,15 @@
-function C() { var choice = "Observer la lumière s’éteindre dans leurs regards#Fin silencieuse*Accepter leur destin et se préparer à l’inconnu#Ultime adieu";var texting = `
+function C() { var choice = "Observer la lumière s’Eteindre dans leurs regards#Fin silencieuse*Accepter leur destin et se prEparer à l’inconnu#Ultime adieu";var texting = `
 <br/>
 **Effacement total**
 <br/>
 <br/>
-Face à une puissance obscure qu’ils n’avaient pas prévue, Selestan, Lynaée, Chloé, et Xalendan réalisent que la fin approche. Pris dans un piège sans échappatoire, ils se soutiennent du regard, acceptant le sort tragique qui s’abat sur eux. Ensemble, ils prennent un dernier souffle, chacun portant la fierté d’avoir lutté jusqu’au bout pour leurs convictions.
+Face à une puissance obscure qu’ils n’avaient pas prEvue, Selestan, LynaEe, ChloE, et Xalendan rEalisent que la fin approche. Pris dans un piège sans Echappatoire, ils se soutiennent du regard, acceptant le sort tragique qui s’abat sur eux. Ensemble, ils prennent un dernier souffle, chacun portant la fiertE d’avoir luttE jusqu’au bout pour leurs convictions.
 <br/>
 <br/>
-Alors que l’obscurité les enveloppe, une lueur de paix se dessine sur leurs visages, témoignant de leur force et de leur détermination. Dans le silence, leurs âmes quittent ce monde, emportées dans l’infinité de l’univers, unies pour l’éternité.
+Alors que l’obscuritE les enveloppe, une lueur de paix se dessine sur leurs visages, tEmoignant de leur force et de leur dEtermination. Dans le silence, leurs âmes quittent ce monde, emportEes dans l’infinitE de l’univers, unies pour l’EternitE.
 <br/>
 <br/>
-Cette fin tragique scelle le destin des quatre héros, rappelant la fragilité de la vie et la puissance des forces obscures auxquelles ils se sont opposés. Leurs souvenirs restent gravés dans les mémoires, comme une légende héroïque pour les générations futures.
+Cette fin tragique scelle le destin des quatre hEros, rappelant la fragilitE de la vie et la puissance des forces obscures auxquelles ils se sont opposEs. Leurs souvenirs restent gravEs dans les mEmoires, comme une lEgende hEroïque pour les gEnErations futures.
 <br/>
 <br/>
 ---

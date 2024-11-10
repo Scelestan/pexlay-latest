@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser cette sagesse pour purifier son esprit#Équilibre spirituel*Retourner à l’essence du rituel#Oui je suis là";var texting = `
+function C() { var choice = "Utiliser cette sagesse pour purifier son esprit#Equilibre spirituel*Retourner à l’essence du rituel#Oui je suis là";var texting = `
 <br/>
 **Sagesse profonde**
 <br/>
 <br/>
-Selestan s’approprie la sagesse contenue dans les symboles, sentant son esprit s’élever. Sa purification atteint un niveau supérieur, lui donnant accès à des connaissances inaccessibles jusqu’alors. Mais même dans cette élévation, il est attiré de nouveau vers l’essence de son voyage.
+Selestan s’approprie la sagesse contenue dans les symboles, sentant son esprit s’Elever. Sa purification atteint un niveau supErieur, lui donnant accès à des connaissances inaccessibles jusqu’alors. Mais même dans cette ElEvation, il est attirE de nouveau vers l’essence de son voyage.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Ouvrir un livre ancien sur les rituels#Secrets du Sphinx*Chercher des documents liés aux origines de l'ordre#Héritage perdu";var texting = `
+function C() { var choice = "Ouvrir un livre ancien sur les rituels#Secrets du Sphinx*Chercher des documents liEs aux origines de l'ordre#HEritage perdu";var texting = `
 <br/>
 **Livres secrets**
 <br/>
 <br/>
-La bibliothèque est calme, ses étagères regorgent de livres qui semblent avoir été là depuis des siècles. Xalendan trouve un livre couvert de poussière portant un symbole du Sphinx. Il décide de l'ouvrir, sentant que les informations contenues pourraient le rapprocher de la vérité.
+La bibliothèque est calme, ses Etagères regorgent de livres qui semblent avoir EtE là depuis des siècles. Xalendan trouve un livre couvert de poussière portant un symbole du Sphinx. Il dEcide de l'ouvrir, sentant que les informations contenues pourraient le rapprocher de la vEritE.
 <br/>
 <br/>
 

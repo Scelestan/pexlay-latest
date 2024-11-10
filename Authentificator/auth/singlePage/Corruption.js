@@ -1,4 +1,4 @@
-function C() { var choice = "Enquêter sur l’origine de cette influence néfaste#Source obscure*Chercher des moyens de purifier le pouvoir#Rituel de purification*Continuer#Plevintrus";var texting = `
+function C() { var choice = "Enquêter sur l’origine de cette influence nEfaste#Source obscure*Chercher des moyens de purifier le pouvoir#Rituel de purification*Continuer#Plevintrus";var texting = `
 <br/>
 <br/>** Corruption **
 <br/>

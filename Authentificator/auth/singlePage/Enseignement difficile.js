@@ -1,9 +1,9 @@
-function C() { var choice = "Apprendre de chaque épreuve traversée#Leçon acquise*Consigner mentalement chaque leçon#Mémoire d'épreuves";var texting = `
+function C() { var choice = "Apprendre de chaque Epreuve traversEe#Leçon acquise*Consigner mentalement chaque leçon#MEmoire d'Epreuves";var texting = `
 <br/>
 **Enseignement difficile**
 <br/>
 <br/>
-Selestan comprend que chaque douleur est une leçon, chaque échec un enseignement. Il grave ces leçons dans sa mémoire, s’assurant qu’aucun moment difficile ne soit perdu. Ces expériences accumulées deviennent sa plus grande richesse, la source de sa force et de sa sagesse.
+Selestan comprend que chaque douleur est une leçon, chaque Echec un enseignement. Il grave ces leçons dans sa mEmoire, s’assurant qu’aucun moment difficile ne soit perdu. Ces expEriences accumulEes deviennent sa plus grande richesse, la source de sa force et de sa sagesse.
 <br/>
 <br/>
 

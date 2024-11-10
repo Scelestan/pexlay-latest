@@ -3,7 +3,7 @@ function C() { var choice = "Ignorer la douleur pour avancer plus loin#Force men
 **Progression ardente**
 <br/>
 <br/>
-Chaque pas devient plus difficile, mais Selestan garde son objectif en vue. Il sent une douleur brûlante, mais utilise cette sensation pour renforcer sa détermination. Il sait que s’il cède, le feu gagnera.
+Chaque pas devient plus difficile, mais Selestan garde son objectif en vue. Il sent une douleur brûlante, mais utilise cette sensation pour renforcer sa dEtermination. Il sait que s’il cède, le feu gagnera.
 <br/>
 <br/>
 

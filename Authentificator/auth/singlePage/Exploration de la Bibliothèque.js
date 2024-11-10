@@ -1,9 +1,9 @@
-function C() { var choice = "Examiner un vieux livre#Souvenirs perdus*quedal#Suivre une ombre mystérieuse#Rencontre étrange#Exploration de la bibliothèque";var texting = `
+function C() { var choice = "Examiner un vieux livre#Souvenirs perdus*quedal#Suivre une ombre mystErieuse#Rencontre Etrange#Exploration de la bibliothèque";var texting = `
 <br/>
 **Exploration de la bibliothèque**
 <br/>
 <br/>
-Cette nuit, alors que tout le monde dort, Xalendan se retrouve attiré par la grande bibliothèque. Une étrange aura flotte dans l'air, comme si les livres murmuraient eux-mêmes. Des étagères entières croulent sous le poids d'ouvrages anciens, et l'obscurité est percée seulement par la faible lumière d'une chandelle oubliée sur une table.
+Cette nuit, alors que tout le monde dort, Xalendan se retrouve attirE par la grande bibliothèque. Une Etrange aura flotte dans l'air, comme si les livres murmuraient eux-mêmes. Des Etagères entières croulent sous le poids d'ouvrages anciens, et l'obscuritE est percEe seulement par la faible lumière d'une chandelle oubliEe sur une table.
 <br/>
 <br/>
 

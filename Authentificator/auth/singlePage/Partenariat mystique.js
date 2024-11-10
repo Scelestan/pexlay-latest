@@ -1,9 +1,9 @@
-function C() { var choice = "Plonger dans les recherches avec Chloé#Exploration partagée*Chercher des sources supplémentaires en équipe#Quête de connaissances";var texting = `
+function C() { var choice = "Plonger dans les recherches avec ChloE#Exploration partagEe*Chercher des sources supplEmentaires en Equipe#Quête de connaissances";var texting = `
 <br/>
 **Partenariat mystique**
 <br/>
 <br/>
-En décidant de s’associer étroitement avec Chloé pour explorer les mystères de l'ordre et des pouvoirs récemment découverts, Xalendan ressent une étrange connexion entre eux, renforcée par le partage de leurs connaissances et de leurs intuitions. Ensemble, ils semblent capables de percer les secrets les plus profonds de l'ordre du Sphinx.
+En dEcidant de s’associer Etroitement avec ChloE pour explorer les mystères de l'ordre et des pouvoirs rEcemment dEcouverts, Xalendan ressent une Etrange connexion entre eux, renforcEe par le partage de leurs connaissances et de leurs intuitions. Ensemble, ils semblent capables de percer les secrets les plus profonds de l'ordre du Sphinx.
 <br/>
 <br/>
 

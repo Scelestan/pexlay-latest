@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre les murmures pour découvrir leur origine#Voix du passé*Ignorer les murmures et continuer tout droit#Entrée interdite";var texting = `
+function C() { var choice = "Suivre les murmures pour dEcouvrir leur origine#Voix du passE*Ignorer les murmures et continuer tout droit#EntrEe interdite";var texting = `
 <br/>
 **Chemin des ombres**
 <br/>
 <br/>
-Des murmures énigmatiques résonnent, semblant appeler Xalendan. Il a le sentiment que ces voix appartiennent aux anciens gardiens de la caverne, qui ont laissé des traces de leur passage sous forme de symboles sur les parois rocheuses.
+Des murmures Enigmatiques rEsonnent, semblant appeler Xalendan. Il a le sentiment que ces voix appartiennent aux anciens gardiens de la caverne, qui ont laissE des traces de leur passage sous forme de symboles sur les parois rocheuses.
 <br/>
 <br/>
 

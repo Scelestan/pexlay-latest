@@ -1,9 +1,9 @@
-function C() { var choice = "Embrasser cette douleur pour en faire une force#Transformation*Chercher la sagesse dans l’épreuve#Enseignement difficile";var texting = `
+function C() { var choice = "Embrasser cette douleur pour en faire une force#Transformation*Chercher la sagesse dans l’Epreuve#Enseignement difficile";var texting = `
 <br/>
 **Force dans la souffrance**
 <br/>
 <br/>
-Selestan accepte sa souffrance, la considérant comme une partie intégrante de lui-même. Plutôt que de la fuir, il en tire de la force. Chaque douleur devient un enseignement, et il se rend compte que cette épreuve forge sa résilience. Cette approche transforme son chagrin en courage.
+Selestan accepte sa souffrance, la considErant comme une partie intEgrante de lui-même. Plutôt que de la fuir, il en tire de la force. Chaque douleur devient un enseignement, et il se rend compte que cette Epreuve forge sa rEsilience. Cette approche transforme son chagrin en courage.
 <br/>
 <br/>
 

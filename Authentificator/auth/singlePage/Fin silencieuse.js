@@ -1,9 +1,9 @@
-function C() { var choice = "Contempler le calme éternel après la bataille#Souvenir éternel";var texting = `
+function C() { var choice = "Contempler le calme Eternel après la bataille#Souvenir Eternel";var texting = `
 <br/>
 **Fin silencieuse**
 <br/>
 <br/>
-Dans les ruines silencieuses, seul reste le souvenir de ces braves héros. Leurs vies et leurs sacrifices perdurent dans la mémoire du royaume, comme un écho d’espoir face aux ténèbres. Ceux qui survivent se souviendront toujours de leur bravoure et de leur amour pour la liberté.
+Dans les ruines silencieuses, seul reste le souvenir de ces braves hEros. Leurs vies et leurs sacrifices perdurent dans la mEmoire du royaume, comme un Echo d’espoir face aux tEnèbres. Ceux qui survivent se souviendront toujours de leur bravoure et de leur amour pour la libertE.
 <br/>
 <br/>
 

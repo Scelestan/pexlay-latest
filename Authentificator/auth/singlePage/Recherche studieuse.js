@@ -1,9 +1,9 @@
-function C() { var choice = "Passer des nuits à lire des écrits anciens sur Pazat#Découverte inquiétante*Demander de l'aide à Lynaée pour interpréter des symboles mystérieux#Interprétation partagée";var texting = `
+function C() { var choice = "Passer des nuits à lire des Ecrits anciens sur Pazat#DEcouverte inquiEtante*Demander de l'aide à LynaEe pour interprEter des symboles mystErieux#InterprEtation partagEe";var texting = `
 <br/>
 **Recherche studieuse**
 <br/>
 <br/>
-Selestan se plonge dans d’anciens écrits, déterminé à en apprendre plus sur Pazat et les ombres. Au fil de ses lectures, il découvre des fragments inquiétants qui mentionnent un pouvoir obscur, capable de contrôler les âmes perdues. Son cœur bat à l'idée de révéler des secrets que même l’ordre du Sphinx ignore peut-être.
+Selestan se plonge dans d’anciens Ecrits, dEterminE à en apprendre plus sur Pazat et les ombres. Au fil de ses lectures, il dEcouvre des fragments inquiEtants qui mentionnent un pouvoir obscur, capable de contrôler les âmes perdues. Son cœur bat à l'idEe de rEvEler des secrets que même l’ordre du Sphinx ignore peut-être.
 <br/>
 <br/>
 

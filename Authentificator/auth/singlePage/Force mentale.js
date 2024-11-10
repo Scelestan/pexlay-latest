@@ -1,9 +1,9 @@
-function C() { var choice = "Canaliser sa douleur pour renforcer sa volonté#Volonté de fer*Relâcher la tension et observer les flammes#Oui je suis là";var texting = `
+function C() { var choice = "Canaliser sa douleur pour renforcer sa volontE#VolontE de fer*Relâcher la tension et observer les flammes#Oui je suis là";var texting = `
 <br/>
 **Force mentale**
 <br/>
 <br/>
-La douleur devient un moteur, un rappel de sa force intérieure. Selestan se concentre pour transcender cette souffrance, transformant chaque brûlure en un acte de résilience. Il se rend compte que cette épreuve vise à éveiller un potentiel caché en lui.
+La douleur devient un moteur, un rappel de sa force intErieure. Selestan se concentre pour transcender cette souffrance, transformant chaque brûlure en un acte de rEsilience. Il se rend compte que cette Epreuve vise à Eveiller un potentiel cachE en lui.
 <br/>
 <br/>
 

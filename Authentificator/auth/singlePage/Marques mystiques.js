@@ -1,9 +1,9 @@
-function C() { var choice = "Étudier les symboles plus en détail pour un savoir approfondi#Sagesse profonde*Ignorer les marques pour continuer le rituel#Oui je suis là";var texting = `
+function C() { var choice = "Etudier les symboles plus en dEtail pour un savoir approfondi#Sagesse profonde*Ignorer les marques pour continuer le rituel#Oui je suis là";var texting = `
 <br/>
 **Marques mystiques**
 <br/>
 <br/>
-Selestan examine les marques, comprenant que ces symboles sont des éléments de la sagesse de Pazat. Chacun porte en lui une leçon essentielle, une part du savoir nécessaire pour comprendre l’équilibre entre la vie et la mort.
+Selestan examine les marques, comprenant que ces symboles sont des ElEments de la sagesse de Pazat. Chacun porte en lui une leçon essentielle, une part du savoir nEcessaire pour comprendre l’Equilibre entre la vie et la mort.
 <br/>
 <br/>
 

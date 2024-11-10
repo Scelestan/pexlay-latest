@@ -1,9 +1,9 @@
-function C() { var choice = "Conclure en insistant sur le devoir des chevaliers#Déclaration solennelle*Inviter les autres à se joindre à la lutte contre la corruption#Union sacrée";var texting = `
+function C() { var choice = "Conclure en insistant sur le devoir des chevaliers#DEclaration solennelle*Inviter les autres à se joindre à la lutte contre la corruption#Union sacrEe";var texting = `
 <br/>
 **Discours final**
 <br/>
 <br/>
-Dans un discours vibrant, Xalendan conclut en rappelant aux chevaliers leur devoir de servir la justice et l’honneur. Il appelle chaque membre de l’ordre à se joindre à lui pour éradiquer la corruption qui a pris racine. Le silence qui suit est chargé de promesses.
+Dans un discours vibrant, Xalendan conclut en rappelant aux chevaliers leur devoir de servir la justice et l’honneur. Il appelle chaque membre de l’ordre à se joindre à lui pour Eradiquer la corruption qui a pris racine. Le silence qui suit est chargE de promesses.
 <br/>
 <br/>
 

@@ -1,9 +1,9 @@
-function C() { var choice = "Laisser son esprit s’immerger totalement dans la présence divine#Fusion ultime*Revenir au monde physique pour se préparer aux défis à venir#Oui je suis là";var texting = `
+function C() { var choice = "Laisser son esprit s’immerger totalement dans la prEsence divine#Fusion ultime*Revenir au monde physique pour se prEparer aux dEfis à venir#Oui je suis là";var texting = `
 <br/>
 **Union divine**
 <br/>
 <br/>
-Selestan se laisse porter par la présence divine, se fondant dans l’énergie de Pazat. Ce moment de fusion spirituelle est intense, comme si tout son être était transcendé. Il sait qu’il doit revenir pour accomplir sa mission, mais il hésite, envoûté par cet état.
+Selestan se laisse porter par la prEsence divine, se fondant dans l’Energie de Pazat. Ce moment de fusion spirituelle est intense, comme si tout son être Etait transcendE. Il sait qu’il doit revenir pour accomplir sa mission, mais il hEsite, envoûtE par cet Etat.
 <br/>
 <br/>
 

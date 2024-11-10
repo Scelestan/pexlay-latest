@@ -1,9 +1,9 @@
-function C() { var choice = "Accuser les dirigeants corrompus publiquement#Affrontement final*Les interroger en privé pour éviter un scandale#Questionnement discret";var texting = `
+function C() { var choice = "Accuser les dirigeants corrompus publiquement#Affrontement final*Les interroger en privE pour Eviter un scandale#Questionnement discret";var texting = `
 <br/>
 **Face aux dirigeants**
 <br/>
 <br/>
-Xalendan et ses amis confrontent les dirigeants corrompus, demandant des explications sur les pactes secrets et la magie obscure utilisée pour renforcer leur pouvoir. Les regards tendus et les silences lourds indiquent qu’ils sont sur le point de dévoiler un secret dangereux.
+Xalendan et ses amis confrontent les dirigeants corrompus, demandant des explications sur les pactes secrets et la magie obscure utilisEe pour renforcer leur pouvoir. Les regards tendus et les silences lourds indiquent qu’ils sont sur le point de dEvoiler un secret dangereux.
 <br/>
 <br/>
 

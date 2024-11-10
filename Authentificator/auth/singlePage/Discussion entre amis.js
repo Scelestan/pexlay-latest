@@ -1,9 +1,9 @@
-function C() { var choice = "Partager des inquiétudes sur les découvertes récentes#Confidences et doutes*Demander l’avis de Jasson sur les mystères de l'ordre#Conseils de Jasson";var texting = `
+function C() { var choice = "Partager des inquiEtudes sur les dEcouvertes rEcentes#Confidences et doutes*Demander l’avis de Jasson sur les mystères de l'ordre#Conseils de Jasson";var texting = `
 <br/>
 **Discussion entre amis**
 <br/>
 <br/>
-Xalendan décide de partager ses dernières découvertes avec ses amis proches, Chloé et Jasson. Autour d’une table à l’écart, ils parlent de la nature des pouvoirs qu’ils ont découverts et des étranges indices de corruption. Leurs regards sont graves, conscients que tout cela pourrait menacer l’ordre des chevaliers du Sphinx.
+Xalendan dEcide de partager ses dernières dEcouvertes avec ses amis proches, ChloE et Jasson. Autour d’une table à l’Ecart, ils parlent de la nature des pouvoirs qu’ils ont dEcouverts et des Etranges indices de corruption. Leurs regards sont graves, conscients que tout cela pourrait menacer l’ordre des chevaliers du Sphinx.
 <br/>
 <br/>
 

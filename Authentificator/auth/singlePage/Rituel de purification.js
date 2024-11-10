@@ -1,9 +1,9 @@
-function C() { var choice = "Entrer en méditation pour ressentir l’énergie divine#Lien sacré*Offrir une prière silencieuse#Oui je suis là";var texting = `
+function C() { var choice = "Entrer en mEditation pour ressentir l’Energie divine#Lien sacrE*Offrir une prière silencieuse#Oui je suis là";var texting = `
 <br/>
 **Rituel de purification**
 <br/>
 <br/>
-Selestan entame le rituel, cherchant à se purifier de toute influence obscure. Sa respiration se calme tandis qu’il concentre son esprit, prêt à atteindre un état de connexion spirituelle profonde. À travers cet acte sacré, il espère éveiller des réponses enfouies au plus profond de lui.
+Selestan entame le rituel, cherchant à se purifier de toute influence obscure. Sa respiration se calme tandis qu’il concentre son esprit, prêt à atteindre un Etat de connexion spirituelle profonde. À travers cet acte sacrE, il espère Eveiller des rEponses enfouies au plus profond de lui.
 <br/>
 <br/>
 

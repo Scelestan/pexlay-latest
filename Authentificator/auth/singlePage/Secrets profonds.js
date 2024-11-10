@@ -1,9 +1,9 @@
-function C() { var choice = "Noter les détails cruciaux dans le journal de recherche#Mémoire éternelle*Partager ces découvertes avec d’autres alliés pour obtenir du soutien#Appel aux alliés";var texting = `
+function C() { var choice = "Noter les dEtails cruciaux dans le journal de recherche#MEmoire Eternelle*Partager ces dEcouvertes avec d’autres alliEs pour obtenir du soutien#Appel aux alliEs";var texting = `
 <br/>
 **Secrets profonds**
 <br/>
 <br/>
-Xalendan note les découvertes dans le journal de recherche, espérant préserver cette mémoire pour les générations futures. Il réalise que cette corruption pourrait bien être l’obstacle ultime que les chevaliers devront surmonter pour retrouver leur pureté d’antan.
+Xalendan note les dEcouvertes dans le journal de recherche, espErant prEserver cette mEmoire pour les gEnErations futures. Il rEalise que cette corruption pourrait bien être l’obstacle ultime que les chevaliers devront surmonter pour retrouver leur puretE d’antan.
 <br/>
 <br/>
 

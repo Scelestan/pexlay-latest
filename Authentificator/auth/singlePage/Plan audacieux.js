@@ -1,9 +1,9 @@
-function C() { var choice = "Se lancer dans une exploration nocturne#Mission secrète*Attendre le moment propice pour éviter d’être vus#Patience vigilante";var texting = `
+function C() { var choice = "Se lancer dans une exploration nocturne#Mission secrète*Attendre le moment propice pour Eviter d’être vus#Patience vigilante";var texting = `
 <br/>
 **Plan audacieux**
 <br/>
 <br/>
-Motivés par leur désir de découvrir la vérité, Xalendan et ses amis décident de partir en exploration nocturne. Ils savent que l’obscurité leur offrira la couverture nécessaire pour éviter les regards indiscrets, mais ils devront rester sur leurs gardes pour ne pas se faire repérer.
+MotivEs par leur dEsir de dEcouvrir la vEritE, Xalendan et ses amis dEcident de partir en exploration nocturne. Ils savent que l’obscuritE leur offrira la couverture nEcessaire pour Eviter les regards indiscrets, mais ils devront rester sur leurs gardes pour ne pas se faire repErer.
 <br/>
 <br/>
 

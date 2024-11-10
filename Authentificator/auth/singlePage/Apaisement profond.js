@@ -1,9 +1,9 @@
-function C() { var choice = "Maintenir cet état de calme jusqu’au château#Retour paisible*Accepter les pensées sans les juger, simplement en observateur#Esprit serein";var texting = `
+function C() { var choice = "Maintenir cet Etat de calme jusqu’au château#Retour paisible*Accepter les pensEes sans les juger, simplement en observateur#Esprit serein";var texting = `
 <br/>
 **Apaisement profond**
 <br/>
 <br/>
-Selestan se laisse porter par un sentiment de paix intérieure, accueillant chaque pensée sans jugement. Ce lâcher-prise lui rappelle l’importance de rester centré et équilibré, prêt à affronter ce qui l’attend avec clarté et sérénité.
+Selestan se laisse porter par un sentiment de paix intErieure, accueillant chaque pensEe sans jugement. Ce lâcher-prise lui rappelle l’importance de rester centrE et EquilibrE, prêt à affronter ce qui l’attend avec clartE et sErEnitE.
 <br/>
 <br/>
 

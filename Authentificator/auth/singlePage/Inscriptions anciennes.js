@@ -1,9 +1,9 @@
-function C() { var choice = "Examiner des symboles gravés dans la pierre#Lecture antique*Comparer les symboles avec ceux trouvés dans d'autres artefacts#Analyse croisée";var texting = `
+function C() { var choice = "Examiner des symboles gravEs dans la pierre#Lecture antique*Comparer les symboles avec ceux trouvEs dans d'autres artefacts#Analyse croisEe";var texting = `
 <br/>
 **Inscriptions anciennes**
 <br/>
 <br/>
-Dans le laboratoire de magie, Xalendan et Chloé découvrent des pierres gravées de symboles inconnus. Ils pensent que ces inscriptions pourraient être des formules magiques anciennes ou des instructions pour manipuler certains pouvoirs interdits.
+Dans le laboratoire de magie, Xalendan et ChloE dEcouvrent des pierres gravEes de symboles inconnus. Ils pensent que ces inscriptions pourraient être des formules magiques anciennes ou des instructions pour manipuler certains pouvoirs interdits.
 <br/>
 <br/>
 

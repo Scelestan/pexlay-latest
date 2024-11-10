@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer d'observer#Découverte d'une technique*quedal#Retourner dans sa chambre#Entraînement nocturne";var texting = `
+function C() { var choice = "Continuer d'observer#DEcouverte d'une technique*quedal#Retourner dans sa chambre#Entraînement nocturne";var texting = `
 <br/>
 **Maîtrise secrète**
 <br/>
 <br/>
-Depuis l'ombre, Xalendan observe attentivement. Les mouvements des chevaliers semblent suivre une danse complexe, mélangeant magie et maîtrise de l'épée. Une voix grave résonne dans la cour, expliquant les nuances d'une technique ancestrale réservée aux chevaliers d'élite...
+Depuis l'ombre, Xalendan observe attentivement. Les mouvements des chevaliers semblent suivre une danse complexe, mElangeant magie et maîtrise de l'EpEe. Une voix grave rEsonne dans la cour, expliquant les nuances d'une technique ancestrale rEservEe aux chevaliers d'Elite...
 <br/>
 <br/>
 

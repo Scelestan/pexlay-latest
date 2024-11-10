@@ -1,9 +1,9 @@
-function C() { var choice = "Utiliser ses réserves d’énergie pour renforcer le bouclier#Énergie brûlante*Renoncer au bouclier pour mieux économiser son énergie#Oui je suis là";var texting = `
+function C() { var choice = "Utiliser ses rEserves d’Energie pour renforcer le bouclier#Energie brûlante*Renoncer au bouclier pour mieux Economiser son Energie#Oui je suis là";var texting = `
 <br/>
 **Protection incertaine**
 <br/>
 <br/>
-Selestan canalise son énergie dans le bouclier, mais il ressent une résistance, comme si les flammes se nourrissaient de sa force. La chaleur qui l’entoure le pousse à reconsidérer sa stratégie et à se préparer pour une épreuve intérieure plus intense.
+Selestan canalise son Energie dans le bouclier, mais il ressent une rEsistance, comme si les flammes se nourrissaient de sa force. La chaleur qui l’entoure le pousse à reconsidErer sa stratEgie et à se prEparer pour une Epreuve intErieure plus intense.
 <br/>
 <br/>
 

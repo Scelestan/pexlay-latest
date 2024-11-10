@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer le château seul#Découverte solitaire*Rejoindre ses amis pour se préparer#Rassemblement entre amis";var texting = `
+function C() { var choice = "Explorer le château seul#DEcouverte solitaire*Rejoindre ses amis pour se prEparer#Rassemblement entre amis";var texting = `
 <br/>
 **Introduction de Xalendan**
 <br/>
 <br/>
-Xalendan, jeune chevalier prometteur de l’ordre du Sphinx, est intrigué par les mystères qui entourent le château. Ce lieu regorge de secrets et de légendes qui éveillent sa curiosité. Il hésite entre partir explorer seul ou rejoindre ses amis pour une mission en groupe.
+Xalendan, jeune chevalier prometteur de l’ordre du Sphinx, est intriguE par les mystères qui entourent le château. Ce lieu regorge de secrets et de lEgendes qui Eveillent sa curiositE. Il hEsite entre partir explorer seul ou rejoindre ses amis pour une mission en groupe.
 <br/>
 <br/>
 

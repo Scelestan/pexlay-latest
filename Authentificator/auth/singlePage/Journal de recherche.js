@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer à noter chaque découverte dans le journal#Mémoire de groupe*Partager leurs notes pour une analyse conjointe#Corruption";var texting = `
+function C() { var choice = "Continuer à noter chaque dEcouverte dans le journal#MEmoire de groupe*Partager leurs notes pour une analyse conjointe#Corruption";var texting = `
 <br/>
 **Journal de recherche**
 <br/>
 <br/>
-Xalendan et Chloé décident de documenter tout ce qu'ils découvrent dans un journal partagé, une mémoire de groupe. Ils savent que cette synthèse pourrait être la clé pour percer les mystères plus vastes de l'ordre et de ses pouvoirs secrets.
+Xalendan et ChloE dEcident de documenter tout ce qu'ils dEcouvrent dans un journal partagE, une mEmoire de groupe. Ils savent que cette synthèse pourrait être la clE pour percer les mystères plus vastes de l'ordre et de ses pouvoirs secrets.
 <br/>
 <br/>
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));

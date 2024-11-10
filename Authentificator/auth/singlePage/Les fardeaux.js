@@ -1,9 +1,9 @@
-function C() { var choice = "Partager son fardeau avec un allié#Alliance renforcée*Garder son fardeau pour ne pas inquiéter les autres#Fardeau silencieux";var texting = `
+function C() { var choice = "Partager son fardeau avec un alliE#Alliance renforcEe*Garder son fardeau pour ne pas inquiEter les autres#Fardeau silencieux";var texting = `
 <br/>
 **Les fardeaux**
 <br/>
 <br/>
-Selestan se questionne : doit-il vraiment porter ce poids seul, ou accepter l’aide de ceux qui l’entourent ? Sa solitude lui pèse, mais il hésite à exposer ses faiblesses à ses compagnons. Partager ce fardeau pourrait changer son chemin et celui des autres.
+Selestan se questionne : doit-il vraiment porter ce poids seul, ou accepter l’aide de ceux qui l’entourent ? Sa solitude lui pèse, mais il hEsite à exposer ses faiblesses à ses compagnons. Partager ce fardeau pourrait changer son chemin et celui des autres.
 <br/>
 <br/>
 

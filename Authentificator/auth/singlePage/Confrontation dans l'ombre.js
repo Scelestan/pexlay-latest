@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre la silhouette#Rencontre avec un allié*quedal#Rester en retrait et observer#Confrontation dans l'ombre";var texting = `
+function C() { var choice = "Suivre la silhouette#Rencontre avec un alliE*quedal#Rester en retrait et observer#Confrontation dans l'ombre";var texting = `
 <br/>
 **Confrontation dans l'ombre**
 <br/>
 <br/>
-Une nuit, alors que Xalendan traverse un couloir désert, il aperçoit une silhouette furtive. Ses mouvements sont calculés, presque trop fluides pour être ceux d'un humain. Le jeune chevalier hésite, l'ombre pourrait cacher un allié, ou une menace.
+Une nuit, alors que Xalendan traverse un couloir dEsert, il aperçoit une silhouette furtive. Ses mouvements sont calculEs, presque trop fluides pour être ceux d'un humain. Le jeune chevalier hEsite, l'ombre pourrait cacher un alliE, ou une menace.
 <br/>
 <br/>
 

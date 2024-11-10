@@ -1,11 +1,13 @@
-function C() { var choice = "Noter mentalement les leçons qu’il souhaite intégrer#Leçons gravées*Poursuivre son chemin avec une détermination renouvelée#Waza";var texting = `
+function C() { var choice = "Confronter ses peurs intErieures#Face à face*Accepter ses faiblesses pour mieux avancer#Acceptation";var texting = `
 <br/>
 **Introspection**
 <br/>
 <br/>
-Selestan grave en lui les leçons qu'il souhaite conserver, les intégrant à sa compréhension de lui-même. Ce retour devient plus qu’un simple voyage physique, il devient un cheminement spirituel vers une version plus sage et plus forte de lui-même.
+En revisitant ses souvenirs, Selestan se retrouve face à ses peurs enfouies. Il sait qu’il doit les affronter pour progresser et pour devenir plus fort. Ce moment de rEflexion devient un point tournant dans sa quête de comprEhension de soi.
 <br/>
 <br/>
+
+---
 
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
@@ -23,4 +25,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}t.getElementById("DIV7").click();}

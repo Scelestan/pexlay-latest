@@ -1,9 +1,9 @@
-function C() { var choice = "Se remémorer un souvenir heureux#Éclat du passé*Chercher un soutien dans une pensée positive#Ancre intérieure";var texting = `
+function C() { var choice = "Se remEmorer un souvenir heureux#Eclat du passE*Chercher un soutien dans une pensEe positive#Ancre intErieure";var texting = `
 <br/>
 **Refuge mental**
 <br/>
 <br/>
-Selestan ferme les yeux, se concentrant sur un souvenir lointain qui lui apporte du réconfort. Un instant de paix, un éclat de bonheur perdu qui ravive son esprit. Dans ce refuge mental, il se sent momentanément en sécurité, loin des tumultes et des épreuves. Ce souvenir devient une ancre qui le garde stable au milieu de la tempête.
+Selestan ferme les yeux, se concentrant sur un souvenir lointain qui lui apporte du rEconfort. Un instant de paix, un Eclat de bonheur perdu qui ravive son esprit. Dans ce refuge mental, il se sent momentanEment en sEcuritE, loin des tumultes et des Epreuves. Ce souvenir devient une ancre qui le garde stable au milieu de la tempête.
 <br/>
 <br/>
 

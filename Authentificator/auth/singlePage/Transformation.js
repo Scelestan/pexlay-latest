@@ -3,7 +3,7 @@ function C() { var choice = "Embrasser la douleur et se forger un nouvel esprit#
 **Transformation**
 <br/>
 <br/>
-Selestan sent chaque douleur devenir une brique de sa résilience. Il accepte chaque épreuve et les utilise pour bâtir un esprit inébranlable. Cette transformation lui donne un nouveau regard sur ses défis et lui rappelle que, même dans l’adversité, il est capable de se forger un destin.
+Selestan sent chaque douleur devenir une brique de sa rEsilience. Il accepte chaque Epreuve et les utilise pour bâtir un esprit inEbranlable. Cette transformation lui donne un nouveau regard sur ses dEfis et lui rappelle que, même dans l’adversitE, il est capable de se forger un destin.
 <br/>
 <br/>
 

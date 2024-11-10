@@ -1,9 +1,9 @@
-function C() { var choice = "Demander des explications aux hauts membres de l'ordre#Face aux dirigeants*En appeler aux anciens chevaliers pour un soutien spirituel#Éveil ancestral";var texting = `
+function C() { var choice = "Se prEparer à combattre si nEcessaire#DEfense renforcEe*Tenter de nEgocier pour Eviter le conflit#Parler avec sagesse";var texting = `
 <br/>
 **Confrontation imminente**
 <br/>
 <br/>
-Déterminés à aller jusqu’au bout, Xalendan et ses amis décident de confronter les hauts membres de l’ordre avec les informations qu’ils ont découvertes. Ils savent que cette confrontation pourrait être risquée, mais ils sont prêts à défendre l’intégrité de l'ordre.
+Sentant le danger imminent, Selestan se prEpare à riposter. Son cœur bat fort, mais il rassemble son courage, sachant que la situation pourrait tourner en un instant. Peut-être, cependant, y a-t-il une chance de rEgler ce conflit autrement…
 <br/>
 <br/>
 
@@ -25,4 +25,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}ention(false, "page1");document.getElementById("DIV7").click();}

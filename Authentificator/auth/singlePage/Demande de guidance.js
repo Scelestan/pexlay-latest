@@ -1,9 +1,9 @@
-function C() { var choice = "Expliquer sa découverte à un mentor de confiance#Échange de savoirs*Observer en silence sans parler de ses découvertes#Retourner en silence au château";var texting = `
+function C() { var choice = "Expliquer sa dEcouverte à un mentor de confiance#Echange de savoirs*Observer en silence sans parler de ses dEcouvertes#Retourner en silence au château";var texting = `
 <br/>
 **Demande de guidance**
 <br/>
 <br/>
-Xalendan décide de parler à un mentor de confiance de ses nouvelles capacités. Ensemble, ils discutent des implications de cette puissance et des méthodes pour la maîtriser sans se laisser dominer. Le mentor partage des techniques de méditation et des histoires d’anciens chevaliers ayant exploré des pouvoirs similaires.
+Xalendan dEcide de parler à un mentor de confiance de ses nouvelles capacitEs. Ensemble, ils discutent des implications de cette puissance et des mEthodes pour la maîtriser sans se laisser dominer. Le mentor partage des techniques de mEditation et des histoires d’anciens chevaliers ayant explorE des pouvoirs similaires.
 <br/>
 <br/>
 

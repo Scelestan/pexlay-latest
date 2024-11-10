@@ -1,9 +1,9 @@
-function C() { var choice = "Accepter la mission#Le prix de la loyauté*quedal#Rester fidèle à l'ordre et refuser#Échange d'informations";var texting = `
+function C() { var choice = "Accepter la mission#Le prix de la loyautE*quedal#Rester fidèle à l'ordre et refuser#Echange d'informations";var texting = `
 <br/>
 **Mission secrète**
 <br/>
 <br/>
-Xalendan hésite. Suivre cet homme pourrait l'emmener loin de son devoir, mais il ne peut ignorer le poids des révélations. L'ordre du Sphinx semble dissimuler de sombres secrets que même les plus anciens chevaliers ignorent…
+Xalendan hEsite. Suivre cet homme pourrait l'emmener loin de son devoir, mais il ne peut ignorer le poids des rEvElations. L'ordre du Sphinx semble dissimuler de sombres secrets que même les plus anciens chevaliers ignorent…
 <br/>
 <br/>
 
@@ -25,4 +25,4 @@ ok.ajouterGeometry("page1-1", ajoue.GeoString());
  var charge = ok.Activer(); 
 charge.ChargerPage("DIV030", "page1-1", true, false); 
 ok.autoZoom(false);
-charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}nt.getElementById("DIV7").click();}
+charge.autoRedimention(false, "page1");document.getElementById("DIV7").click();}t.getElementById("DIV7").click();}

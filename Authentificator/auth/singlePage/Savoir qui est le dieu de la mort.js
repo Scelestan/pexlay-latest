@@ -1,9 +1,9 @@
-function C() { var choice = "Poser la question à un sage du village#Sagesse d’Elva*Effectuer des recherches seul dans les anciens écrits#Recherche studieuse";var texting = `
+function C() { var choice = "Poser la question à un sage du village#Sagesse d’Elva*Effectuer des recherches seul dans les anciens Ecrits#Recherche studieuse";var texting = `
 <br/>
 **Savoir qui est le dieu de la mort**
 <br/>
 <br/>
-Intrigué par les ombres et la mention d’un dieu de la mort, Selestan décide de percer ce mystère en trouvant quelqu’un qui pourrait le guider. La légende de ce dieu, semble-t-il, est plus qu’un simple mythe parmi les elfes. Ce savoir pourrait s’avérer essentiel dans sa formation auprès d’Elva.
+IntriguE par les ombres et la mention d’un dieu de la mort, Selestan dEcide de percer ce mystère en trouvant quelqu’un qui pourrait le guider. La lEgende de ce dieu, semble-t-il, est plus qu’un simple mythe parmi les elfes. Ce savoir pourrait s’avErer essentiel dans sa formation auprès d’Elva.
 <br/>
 <br/>
 

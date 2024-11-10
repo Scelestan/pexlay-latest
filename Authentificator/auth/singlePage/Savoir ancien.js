@@ -1,9 +1,9 @@
-function C() { var choice = "Lire un livre mystérieux#Révélation inattendue*Observer les environs pour ne pas attirer l’attention#Précaution silencieuse";var texting = `
+function C() { var choice = "Lire un livre mystErieux#REvElation inattendue*Observer les environs pour ne pas attirer l’attention#PrEcaution silencieuse";var texting = `
 <br/>
 **Savoir ancien**
 <br/>
 <br/>
-Dans la bibliothèque, Xalendan trouve un livre orné de symboles inconnus. En le feuilletant, il découvre des passages qui mentionnent des rituels anciens et des pouvoirs oubliés de l’ordre des chevaliers du Sphinx. Il hésite, craignant de s'aventurer trop loin dans ces écrits interdits.
+Dans la bibliothèque, Xalendan trouve un livre ornE de symboles inconnus. En le feuilletant, il dEcouvre des passages qui mentionnent des rituels anciens et des pouvoirs oubliEs de l’ordre des chevaliers du Sphinx. Il hEsite, craignant de s'aventurer trop loin dans ces Ecrits interdits.
 <br/>
 <br/>
 

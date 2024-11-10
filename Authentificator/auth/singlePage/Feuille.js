@@ -1,4 +1,4 @@
-function C() { var choice = "Continuer#Waza*Selestan voie Lyanée pleurer#Ambiance sucrée*Selestan voie Lyanée pleurer#Ambiance sucrée*Essayer quand même de parler avec un ombre#Savoir qui est le dieu de la mort";var texting = `
+function C() { var choice = "Continuer#Waza*Selestan voie LyanEe pleurer#Ambiance sucrEe*Selestan voie LyanEe pleurer#Ambiance sucrEe*Essayer quand même de parler avec un ombre#Savoir qui est le dieu de la mort";var texting = `
 <br/>
 <br/>
 <br/>

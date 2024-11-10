@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer à tester les limites du pouvoir#Découverte des limites*Arrêter l'entraînement par prudence#Retour à la normalité";var texting = `
+function C() { var choice = "Continuer à tester les limites du pouvoir#DEcouverte des limites*Arrêter l'entraînement par prudence#Retour à la normalitE";var texting = `
 <br/>
 **Entraînement intensif**
 <br/>
 <br/>
-Avec Jasson, Xalendan explore toutes les facettes de son nouveau pouvoir. Ils se poussent l’un l’autre à dépasser leurs limites, découvrant peu à peu jusqu’où ce pouvoir peut les emmener.
+Avec Jasson, Xalendan explore toutes les facettes de son nouveau pouvoir. Ils se poussent l’un l’autre à dEpasser leurs limites, dEcouvrant peu à peu jusqu’où ce pouvoir peut les emmener.
 <br/>
 <br/>
 

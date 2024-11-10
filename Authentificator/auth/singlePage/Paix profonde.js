@@ -3,7 +3,7 @@ function C() { var choice = "Ouvrir les yeux, empli de gratitude envers la natur
 **Paix profonde**
 <br/>
 <br/>
-La tranquillité qui l’entoure devient une partie de lui. Selestan se sent en harmonie avec le monde, comme si sa propre énergie vibrait en accord avec celle de la terre. Ce moment d’unité lui rappelle la beauté de l’équilibre et la puissance du calme intérieur.
+La tranquillitE qui l’entoure devient une partie de lui. Selestan se sent en harmonie avec le monde, comme si sa propre Energie vibrait en accord avec celle de la terre. Ce moment d’unitE lui rappelle la beautE de l’Equilibre et la puissance du calme intErieur.
 <br/>
 <br/>
 

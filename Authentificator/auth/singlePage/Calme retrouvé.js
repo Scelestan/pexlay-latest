@@ -8,7 +8,6 @@ Selestan laisse sa conscience s’imprégner de la paix retrouvée. Ce calme, ra
 <br/>
 
 ---
-
 `;var ok = prog("page1-1", 1, (0.05*(texting.split("<br/>").length)));
 var ajoue = ok.cadreGeometry("Cadre");
 ajoue.changeCouleur("Cadre", "rgb(241,241,241)");

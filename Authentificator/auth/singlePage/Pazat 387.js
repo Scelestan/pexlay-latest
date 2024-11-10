@@ -1,9 +1,9 @@
-function C() { var choice = "Ignorer la présence et continuer le duel#Pazat 388*Essayer de comprendre l’aura mystérieuse autour#Pazat 389";var texting = `
+function C() { var choice = "Ignorer la prEsence et continuer le duel#Pazat 388*Essayer de comprendre l’aura mystErieuse autour#Pazat 389";var texting = `
 <br/>
 **Pazat 387**
 <br/>
 <br/>
-Dans un duel intense, Selestan sent une présence mystérieuse mais décide de se concentrer sur son adversaire. Chaque mouvement est crucial, et son choix pourrait changer le cours de la bataille.
+Dans un duel intense, Selestan sent une prEsence mystErieuse mais dEcide de se concentrer sur son adversaire. Chaque mouvement est crucial, et son choix pourrait changer le cours de la bataille.
 <br/>
 <br/>
 

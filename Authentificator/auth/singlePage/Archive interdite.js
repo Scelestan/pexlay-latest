@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer davantage les documents pour plus de détails#Secrets profonds*Quitter discrètement l’archive avant d’être repérés#Évasion silencieuse";var texting = `
+function C() { var choice = "Explorer davantage les documents pour plus de dEtails#Secrets profonds*Quitter discrètement l’archive avant d’être repErEs#Evasion silencieuse";var texting = `
 <br/>
 **Archive interdite**
 <br/>
 <br/>
-Les archives révèlent des secrets profondément enfouis, des pactes anciens et des rituels de corruption. Xalendan, Chloé, et Jasson se rendent compte de l’ampleur de l’influence obscure qui plane sur l'ordre. Ils comprennent maintenant que la source de cette corruption est bien plus ancienne qu’ils ne le pensaient.
+Les archives rEvèlent des secrets profondEment enfouis, des pactes anciens et des rituels de corruption. Xalendan, ChloE, et Jasson se rendent compte de l’ampleur de l’influence obscure qui plane sur l'ordre. Ils comprennent maintenant que la source de cette corruption est bien plus ancienne qu’ils ne le pensaient.
 <br/>
 <br/>
 

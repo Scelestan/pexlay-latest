@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre un sentier tracé par les esprits anciens#Sentier des ancêtres*Revenir vers le château pour se reposer#Retour au château";var texting = `
+function C() { var choice = "Suivre un sentier tracE par les esprits anciens#Sentier des ancêtres*Revenir vers le château pour se reposer#Retour au château";var texting = `
 <br/>
 **Fusion avec la nature**
 <br/>
 <br/>
-Dans un état méditatif profond, Xalendan perçoit un sentier à peine visible, comme tracé par des esprits anciens. Attiré par cette route spirituelle, il décide de la suivre pour voir où elle le mènera, se sentant guidé par les forces de la nature elle-même.
+Dans un Etat mEditatif profond, Xalendan perçoit un sentier à peine visible, comme tracE par des esprits anciens. AttirE par cette route spirituelle, il dEcide de la suivre pour voir où elle le mènera, se sentant guidE par les forces de la nature elle-même.
 <br/>
 <br/>
 

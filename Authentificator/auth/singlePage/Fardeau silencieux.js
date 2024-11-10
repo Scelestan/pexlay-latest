@@ -1,9 +1,9 @@
-function C() { var choice = "Supporter seul ses responsabilités#Solitude assumée*Rechercher la paix intérieure pour supporter la pression#Calme en soi";var texting = `
+function C() { var choice = "Supporter seul ses responsabilitEs#Solitude assumEe*Rechercher la paix intErieure pour supporter la pression#Calme en soi";var texting = `
 <br/>
 **Fardeau silencieux**
 <br/>
 <br/>
-Selestan choisit de porter son fardeau en silence, sans partager ses inquiétudes avec les autres. Il sait que cette responsabilité le renforce, même si elle l’isole. Dans cette solitude, il cherche la paix intérieure, un équilibre personnel qui lui permet d’affronter ses épreuves seul. C’est un choix difficile, mais il lui offre un certain apaisement.
+Selestan choisit de porter son fardeau en silence, sans partager ses inquiEtudes avec les autres. Il sait que cette responsabilitE le renforce, même si elle l’isole. Dans cette solitude, il cherche la paix intErieure, un Equilibre personnel qui lui permet d’affronter ses Epreuves seul. C’est un choix difficile, mais il lui offre un certain apaisement.
 <br/>
 <br/>
 

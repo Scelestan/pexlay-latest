@@ -1,9 +1,9 @@
-function C() { var choice = "Se perdre volontairement dans l’oubli#Absence totale*Résister et chercher la lumière#Éveil difficile";var texting = `
+function C() { var choice = "Se perdre volontairement dans l’oubli#Secret*REsister et chercher la lumière#Waza";var texting = `
 <br/>
 **L’ombre de l’oubli**
 <br/>
 <br/>
-Selestan est tenté de tout oublier, de se détacher de ses douleurs et de disparaître dans un oubli paisible. Cependant, au fond de lui, une petite flamme vacillante lui rappelle que céder à l’oubli serait abandonner tout ce qu'il aime.
+Selestan est tentE de tout oublier, de se dEtacher de ses douleurs et de disparaître dans un oubli paisible. Cependant, au fond de lui, une petite flamme vacillante lui rappelle que cEder à l’oubli serait abandonner tout ce qu'il aime.
 <br/>
 <br/>
 

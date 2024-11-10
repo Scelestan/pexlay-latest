@@ -1,9 +1,9 @@
-function C() { var choice = "Demander à la figure de révéler son identité#Présence divine*Écouter attentivement en silence#Oui je suis là";var texting = `
+function C() { var choice = "Demander à la figure de rEvEler son identitE#PrEsence divine*Ecouter attentivement en silence#Oui je suis là";var texting = `
 <br/>
 **Guide lumineux**
 <br/>
 <br/>
-La figure répond à Selestan par une sensation de paix profonde. Elle semble être un fragment de quelque chose de plus grand, une énergie ancienne, possiblement liée à Pazat. Selestan sent une connexion croissante avec cette entité mystérieuse.
+La figure rEpond à Selestan par une sensation de paix profonde. Elle semble être un fragment de quelque chose de plus grand, une Energie ancienne, possiblement liEe à Pazat. Selestan sent une connexion croissante avec cette entitE mystErieuse.
 <br/>
 <br/>
 

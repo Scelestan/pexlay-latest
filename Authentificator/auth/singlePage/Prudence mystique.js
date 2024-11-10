@@ -1,9 +1,9 @@
-function C() { var choice = "Continuer l’observation pour noter chaque réaction#Journal de recherche*Quitter la salle pour éviter d’attirer l’attention#Sortie discrète";var texting = `
+function C() { var choice = "Continuer l’observation pour noter chaque rEaction#Journal de recherche*Quitter la salle pour Eviter d’attirer l’attention#Sortie discrète";var texting = `
 <br/>
 **Prudence mystique**
 <br/>
 <br/>
-Plutôt que de risquer une activation imprévue, Xalendan et Chloé prennent des notes détaillées de chaque réaction de l’artefact. Ils sont conscients que ces informations pourraient être essentielles pour comprendre les origines de ce pouvoir mystique.
+Plutôt que de risquer une activation imprEvue, Xalendan et ChloE prennent des notes dEtaillEes de chaque rEaction de l’artefact. Ils sont conscients que ces informations pourraient être essentielles pour comprendre les origines de ce pouvoir mystique.
 <br/>
 <br/>
 

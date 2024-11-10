@@ -1,9 +1,9 @@
-function C() { var choice = "Préparer un discours pour révéler la corruption devant tout l'ordre#Révélation publique*Conserver les preuves en lieu sûr pour les protéger#Cache précieuse";var texting = `
+function C() { var choice = "PrEparer un discours pour rEvEler la corruption devant tout l'ordre#REvElation publique*Conserver les preuves en lieu sûr pour les protEger#Cache prEcieuse";var texting = `
 <br/>
 **Dossier accablant**
 <br/>
 <br/>
-Les preuves qu’ils ont rassemblées sont accablantes. Xalendan et ses amis envisagent de tout révéler aux autres chevaliers, mais ils savent que cela pourrait les mettre en danger. Le dilemme est intense : protéger l'ordre ou risquer leur propre sécurité.
+Les preuves qu’ils ont rassemblEes sont accablantes. Xalendan et ses amis envisagent de tout rEvEler aux autres chevaliers, mais ils savent que cela pourrait les mettre en danger. Le dilemme est intense : protEger l'ordre ou risquer leur propre sEcuritE.
 <br/>
 <br/>
 

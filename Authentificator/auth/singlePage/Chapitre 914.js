@@ -1,9 +1,9 @@
-function C() { var choice = "Explorer la forêt mystérieuse#Chapitre 915*Retourner au village pour se reposer#Chapitre 916";var texting = `
+function C() { var choice = "Explorer la forêt mystErieuse#Chapitre 915*Retourner au village pour se reposer#Chapitre 916";var texting = `
 <br/>
 **Chapitre 914**
 <br/>
 <br/>
-Selestan continue son périple, faisant face aux mystères du royaume. Le chemin est parsemé de défis et de révélations sur le dieu de la mort, Pazat. Chaque choix pourrait tout changer...
+Selestan continue son pEriple, faisant face aux mystères du royaume. Le chemin est parsemE de dEfis et de rEvElations sur le dieu de la mort, Pazat. Chaque choix pourrait tout changer...
 <br/>
 <br/>
 

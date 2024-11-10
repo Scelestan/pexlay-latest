@@ -1,9 +1,9 @@
-function C() { var choice = "Suivre cette lumière vers l’inconnu#Périple nouveau*Inviter un ami à se joindre à lui#Compagnon de route";var texting = `
+function C() { var choice = "Suivre cette lumière vers l’inconnu#PEriple nouveau*Inviter un ami à se joindre à lui#Compagnon de route";var texting = `
 <br/>
 **Chemin lumineux**
 <br/>
 <br/>
-Selestan décide de suivre la lueur qui se dessine devant lui, un chemin vers l’inconnu rempli de mystère et de promesses. Il est prêt à découvrir de nouveaux horizons, mais la perspective de partager cette aventure avec un ami lui offre une joie supplémentaire.
+Selestan dEcide de suivre la lueur qui se dessine devant lui, un chemin vers l’inconnu rempli de mystère et de promesses. Il est prêt à dEcouvrir de nouveaux horizons, mais la perspective de partager cette aventure avec un ami lui offre une joie supplEmentaire.
 <br/>
 <br/>
 
