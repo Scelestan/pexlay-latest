@@ -22,7 +22,7 @@ apps.use(Routerers.useRoute());
 logSock.Init__Socklog();
 
 http.createServer(apps, function (req, res) {
-}).listen(4321, "127.0.0.1", function(e) {
+}).listen(8080, "127.0.0.1", function(e) {
 	console.log("server listen");
 });
 
