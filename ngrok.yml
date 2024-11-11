@@ -1,0 +1,13 @@
+version: "3"
+  
+tunnels:
+  http:
+    proto: http
+    addr: https://127.0.0.1:4321
+    domain: gardianofshylz.ngrok.app
+  tcp:
+    proto: tcp
+    addr: 4321
+    remote_addr: 3.tcp.ngrok.io:25284
+    
+    
