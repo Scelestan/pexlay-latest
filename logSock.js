@@ -1,7 +1,7 @@
 ﻿const WebSocket = require('ws');
 var ipLOGey = require('./auth/firstLog.js').ipcalcul();
 const fL = require('./auth/firstLog.js');
-const socket = new WebSocket.Server({ port: 2424, host: ipLOGey});
+const socket = new WebSocket.Server({ port: 2424, host: "127.0.0.1"});
 var guy = [];
 var vague = 2;
 var zbbs = "";

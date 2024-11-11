@@ -12,17 +12,17 @@ process.on('uncaughtException', function (err) {
 });
 Routerers.addStaff();
 //Routerers.LoadLog_(":4321", "", "done", true, 1);
-Routerers.LoadLog_("", "connexion", "staff", false, 0);
-apps.use(Routerers.SlaSh_("", "", "connexion", "/staff"));
+Routerers.LoadLog_(":4321", "connexion", "staff", false, 0);
+apps.use(Routerers.SlaSh_(":4321", "", "connexion", "/staff"));
 
-Routerers.createGET_("/", "/Authenticator/auth/singlePage/userPage.html");
+Routerers.createGET_("/", "/auth/singlePage/userPage.html");
 Routerers.createGET_("/logo", "/logo.png");
 Routerers.createGET_("/favicon.ico", "/favicon.ico");
 apps.use(Routerers.useRoute());
 logSock.Init__Socklog();
 
 http.createServer(apps, function (req, res) {
-}).listen(8080, "0.0.0.0", function(e) {
+}).listen(4321, "127.0.0.1", function(e) {
 	console.log("server listen");
 });
 
