@@ -1,4 +1,5 @@
-﻿const http = require('http');
+﻿const http = require('https');
+const fs = require('fs');
 const express = require('express');
 var apps = express();
 
@@ -19,13 +20,18 @@ Routerers.createGET_("/", "/auth/singlePage/userPage.html");
 Routerers.createGET_("/logo", "/logo.png");
 Routerers.createGET_("/favicon.ico", "/favicon.ico");
 apps.use(Routerers.useRoute());
-logSock.Init__Socklog();
 
-http.createServer(apps, function (req, res) {
-}).listen(4321, "localhost", function(e) {
-	console.log("server listen");
-});
 
+var server = http.createServer({ 
+cert: fs.readFileSync("cert.pem"),
+key: fs.readFileSync("key.pem"),
+requestCert: false,
+rejectUnauthorized: false },
+ apps );
+ 
+ server.listen(4321, "127.0.0.1");
+ 
+logSock.Init__Socklog(apps, server, Routerers, "");
 
 
 

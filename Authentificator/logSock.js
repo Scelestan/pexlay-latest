@@ -1,7 +1,7 @@
-﻿const WebSocket = require('ws');
+﻿
 var ipLOGey = require('./auth/firstLog.js').ipcalcul();
 const fL = require('./auth/firstLog.js');
-const socket = new WebSocket.Server({ port: 2424, host: "localhost"});
+
 var guy = [];
 var vague = 2;
 var zbbs = "";
@@ -11,16 +11,41 @@ var IApos = 1;
 var bouclezomb;
 
 
-process.on('SIGINT', function() {
-  socket.close();
-  process.exit();
-});
-
 module.exports = {
 
 
 
-Init__Socklog : function() {
+Init__Socklog : function(socapp, socserv, appsp, appspp) {
+	const WebSocket = require('ws');
+var ipLOGey = require('./auth/firstLog.js').ipcalcul();
+var expressWs = require('express-ws');
+var guy = [];
+
+var zbbs = [];
+
+var posIA = [];
+var IApos = 1;
+var bouclezomb;
+const socket = new WebSocket.Server({
+    server: socserv,
+  perMessageDeflate: {
+    zlibDeflateOptions: {
+      // See zlib defaults.
+      chunkSize: 2024,
+      memLevel: 7,
+      level: 3
+    },
+    zlibInflateOptions: {
+      chunkSize: 10 * 2024
+    },
+    // Other options settable:
+    clientNoContextTakeover: true, // Defaults to negotiated value.
+    serverNoContextTakeover: true, // Defaults to negotiated value.
+
+    threshold: 2024 // Size (in bytes) below which messages
+    // should not be compressed if context takeover is disabled.
+  }
+});
 
 
 function envSockOne(IDENT, ws) {
